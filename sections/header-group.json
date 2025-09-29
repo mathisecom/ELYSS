@@ -27,11 +27,19 @@
             "text": "Free Shipping",
             "url": ""
           }
+        },
+        "message_aznQiL": {
+          "type": "message",
+          "settings": {
+            "text": "100% Secure Payment",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message_zHhmXt",
-        "message"
+        "message",
+        "message_aznQiL"
       ],
       "settings": {
         "enable_sticky": false,
