@@ -234,6 +234,22 @@
         "text_color": ""
       }
     },
+    "scrolling_text_9q9xWe": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#000000",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
+      }
+    },
     "media_with_text_rMQPjm": {
       "type": "media-with-text",
       "blocks": {
@@ -367,6 +383,7 @@
   "order": [
     "main",
     "multi_column_4jj37M",
+    "scrolling_text_9q9xWe",
     "media_with_text_rMQPjm",
     "images_with_text_scrolling_nymfTr",
     "faq_QwdHLP"
