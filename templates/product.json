@@ -539,6 +539,68 @@
         "text_gradient": ""
       }
     },
+    "multi_column_gtgKtF": {
+      "type": "multi-column",
+      "blocks": {
+        "item_c7dWyi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/images_2.avif",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_rza8Ex": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/images_1.avif",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_c8CC7n": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/images.avif",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_c7dWyi",
+        "item_rza8Ex",
+        "item_c8CC7n"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_with_text_rMQPjm": {
       "type": "media-with-text",
       "blocks": {
@@ -567,6 +629,7 @@
       "block_order": [
         "image_66T7wD"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": false,
@@ -980,6 +1043,7 @@
     "media_with_text_dTUYxg",
     "multi_column_4jj37M",
     "scrolling_text_9q9xWe",
+    "multi_column_gtgKtF",
     "media_with_text_rMQPjm",
     "multi_column_EctGX3",
     "media_with_text_4GDQwc",
