@@ -171,12 +171,23 @@
             "show_rating": true,
             "rating": 4
           }
+        },
+        "quote_MDgfVj": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
         }
       },
       "block_order": [
         "quote_mJeWMk",
         "quote_CbwqmY",
-        "quote_PDCTJB"
+        "quote_PDCTJB",
+        "quote_MDgfVj"
       ],
       "name": "Press",
       "settings": {
