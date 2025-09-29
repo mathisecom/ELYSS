@@ -15,7 +15,7 @@
         "liquid_7xXm48": {
           "type": "liquid",
           "settings": {
-            "liquid": ""
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <style>\n      .badges-container {\n        display: flex;\n        gap: 6px; /* Espacement entre les badges */\n        align-items: center;\n      }\n\n      .badge {\n        display: inline-block;\n        padding: 4px 10px; /* Taille du badge */\n        font-size: 12px;\n        font-weight: bold;\n        color: white; /* Texte blanc pour contraste */\n        background: #000000; /* Noir uni */\n        border-radius: 15px;\n        text-transform: uppercase;\n        white-space: nowrap;\n      }\n    </style>\n\n    <div class=\"badges-container\">\n      <div class=\"badge\">BEST SELLER</div>\n      <div class=\"badge\">AUTUMN OFFER: -50% OFF</div>\n    </div>\n  </div>\n</div>"
           }
         },
         "title": {
