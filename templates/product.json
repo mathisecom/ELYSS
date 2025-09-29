@@ -643,35 +643,9 @@
           "settings": {
             "image": "shopify://shop_images/Photo_1a_1.webp",
             "column_size": "4",
-            "title": "Column title",
+            "title": "OPTIMAL PRE-DRYING",
             "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_enXMT3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Photo_2a_1.webp",
-            "column_size": "4",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_rbJamR": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Photo_4a_1.webp",
-            "column_size": "4",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "",
+            "content": "<p>Prepare your hair perfectly for styling with a broad, precise airflow.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -682,9 +656,35 @@
           "settings": {
             "image": "shopify://shop_images/Photo_3a_1.webp",
             "column_size": "4",
-            "title": "Column title",
+            "title": "CURLING FUNCTION",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p>Easily create gorgeous curls, left or right, with two included curling barrels. Specially designed for voluminous curls and waves without excessive heat.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_rbJamR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Photo_4a_1.webp",
+            "column_size": "4",
+            "title": "SMOOTHING BRUSH",
+            "heading_tag": "h4",
+            "content": "<p>Replaces the traditional flat iron with an ionic smoothing attachment. Makes your hair smooth and silky, even for curly or frizzy hair.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_enXMT3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Photo_2a_1.webp",
+            "column_size": "4",
+            "title": "ROUND VOLUMIZING BRUSH",
+            "heading_tag": "h4",
+            "content": "<p>Adds more volume and movement. Ideal for adding volume to all hair types, except for afro-textured hair.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -693,9 +693,9 @@
       },
       "block_order": [
         "item_URUzTU",
-        "item_enXMT3",
+        "item_3fNVMK",
         "item_rbJamR",
-        "item_3fNVMK"
+        "item_enXMT3"
       ],
       "name": "Multi-column",
       "settings": {
