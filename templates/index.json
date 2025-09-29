@@ -90,10 +90,27 @@
         "background": "#f2f2f2",
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
+    },
+    "scrolling_text_PkfM8a": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "DRY. SMOOTH. CURL.",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#000000",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
+      }
     }
   },
   "order": [
     "slideshow",
-    "slideshow_CiTpwE"
+    "slideshow_CiTpwE",
+    "scrolling_text_PkfM8a"
   ]
 }
