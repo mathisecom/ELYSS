@@ -418,11 +418,13 @@
         "image_RjYzDR": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Titre_14.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
-            "icon_width": 48,
+            "custom_icon": "shopify://shop_images/Titre_2.png",
+            "icon_width": 76,
             "subheading": "",
             "title": "Salon-Quality Hair, Every Day",
             "content": "<p><strong>Transform your daily routine</strong> with the HairStyling Brush – your all-in-one tool for sleek, shiny styles or voluminous curls.</p><p>With six innovative attachments, you can effortlessly create <strong>professional results</strong> from the comfort of home. Perfect for <strong>every hair type and every style.</strong></p>",
