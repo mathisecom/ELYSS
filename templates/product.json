@@ -42,6 +42,12 @@
             "liquid": "<div class=\"product__block product__block--custom_liquid\">\n  <style>\n    #people-viewing {\n      position: relative;\n      padding-left: 30px; /* espace pour le point clignotant */\n      font-size: 16px;\n      font-weight: bold;\n    }\n\n    #people-viewing::before {\n      content: '';\n      position: absolute;\n      left: 0;\n      top: 50%;\n      transform: translateY(-50%);\n      width: 12px;\n      height: 12px;\n      border-radius: 50%;\n      background-color: #CDB869; /* couleur du point */\n      box-shadow: 0 0 10px #CDB869, 0 0 20px #CDB869;\n      animation: glowing 3.5s infinite;\n    }\n\n    @keyframes glowing {\n      0% { box-shadow: 0 0 5px #CDB869, 0 0 10px #CDB869; }\n      50% { box-shadow: 0 0 20px #CDB869, 0 0 30px #CDB869; }\n      100% { box-shadow: 0 0 5px #CDB869, 0 0 10px #CDB869; }\n    }\n  </style>\n\n  <div id=\"people-viewing\">\n    Only <span id=\"stock-count\">3</span> left in stock.\n  </div>\n\n  <script>\n    function changeStockNumber() {\n      setTimeout(() => {\n        document.getElementById(\"stock-count\").textContent = \"3\";\n      }, 2000);\n    }\n\n    const observer = new IntersectionObserver((entries, observer) => {\n      entries.forEach(entry => {\n        if (entry.isIntersecting) {\n          changeStockNumber();\n          observer.disconnect();\n        }\n      });\n    }, { threshold: 0.5 });\n\n    observer.observe(document.getElementById(\"people-viewing\"));\n  </script>\n</div>"
           }
         },
+        "liquid_Ead3qT": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"kaching-icon-block--icon-container\" style=\"display: flex; flex-grow: 1; flex-shrink: 0; justify-content: center;\">\n  <div class=\"kaching-icon-block--icon\" style=\"display: flex; flex-direction: row; flex: 1 1 0%; align-items: center; text-align: center; padding: 10px; border: 1px solid #B4995B!important; background-color: #F3F0EB !important; border-radius: 5px;\">\n    <div style=\"display: flex; flex-shrink: 0; align-items: center; height: 24px; width: 24px; margin-bottom: 0px;\">\n      <svg height=\"24\" width=\"24\" viewBox=\"0 0 24 24\" fill=\"#B4995B\" xmlns=\"http://www.w3.org/2000/svg\">\n        <rect width=\"24\" height=\"24\" fill=\"none\"></rect>\n        <path d=\"M12 3C6.48 3 2 7.48 2 12s4.48 9 10 9 10-4.48 10-9S17.52 3 12 3zm1 14h-2v-2h2v2zm0-4h-2V7h2v6z\"></path>\n      </svg>\n    </div>\n    <div style=\"display: flex; flex-direction: column; text-align: left; margin-left: 10px;\">\n      <span class=\"kaching-icon-block--icon-title\" style=\"font-size: 15px; color: black !important; font-weight: bold; letter-spacing: -0.2px; line-height: 1.2;\">Exclusively available on ELYSS™</span>\n      <span class=\"kaching-icon-block--icon-subtitle\" style=\"font-size: 12.5px; color: black !important; font-style: normal; font-weight: normal; letter-spacing: -0.2px; line-height: 1.3;\">Beware of counterfeits. Any other sellers are unauthorised and we cannot guarantee the quality or authenticity of their products.</span>\n    </div>\n  </div>\n</div>"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "disabled": true,
@@ -113,6 +119,7 @@
         "price",
         "liquid_K8gL96",
         "liquid_mLDETG",
+        "liquid_Ead3qT",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
