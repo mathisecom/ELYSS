@@ -608,6 +608,7 @@
         "item_gftncW": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123709.382.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -620,6 +621,7 @@
         "item_7pgxRw": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123702.833.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -632,6 +634,7 @@
         "item_grYMip": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123650.380.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -644,6 +647,7 @@
         "item_P4tFzV": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123655.708.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
