@@ -791,6 +791,7 @@
         "item_cgrjDX": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/e275c890412c40f1adbfecfc3ba7a973.HD-1080p-7.2Mbps-55054231.mp4",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
