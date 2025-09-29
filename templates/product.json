@@ -139,67 +139,67 @@
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_AKXkxN": {
+        "item_mQXFmc": {
           "type": "item",
           "settings": {
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_gdG3eK": {
+        "item_4FCa3G": {
           "type": "item",
           "settings": {
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_REbC7x": {
+        "item_daCqAC": {
           "type": "item",
           "settings": {
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_k8zJzk": {
+        "item_cfN3aw": {
           "type": "item",
           "settings": {
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_ah4iMD": {
+        "item_xHnG3U": {
           "type": "item",
           "settings": {
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -208,11 +208,11 @@
       },
       "block_order": [
         "item_WijYWq",
-        "item_AKXkxN",
-        "item_gdG3eK",
-        "item_REbC7x",
-        "item_k8zJzk",
-        "item_ah4iMD"
+        "item_mQXFmc",
+        "item_4FCa3G",
+        "item_daCqAC",
+        "item_cfN3aw",
+        "item_xHnG3U"
       ],
       "name": "Multi-column",
       "settings": {
