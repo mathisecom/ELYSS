@@ -819,7 +819,7 @@
         "subheading": "THEY TESTED IT",
         "title": "Approved it, and Adopted it.",
         "content": "",
-        "background": "#ebe8f2",
+        "background": "#fffdf4",
         "background_gradient": "",
         "text_color": ""
       }
@@ -1029,7 +1029,7 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "testimonial_card_background": "#ebe8f2",
+        "testimonial_card_background": "#f9f9f9",
         "testimonial_card_text_color": ""
       }
     },
@@ -1116,14 +1116,14 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "#ebe8f2",
+        "background": "#fcfcfc",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
-        "accordion_background": "#cecbd4",
+        "accordion_background": "#f9f9f9",
         "accordion_text_color": ""
       }
     }
