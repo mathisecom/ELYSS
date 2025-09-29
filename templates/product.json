@@ -399,6 +399,7 @@
         "image_kHDajH": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Titre_14.jpg",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
