@@ -1288,8 +1288,8 @@
         "item_C37QRQ": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "What is the delivery time?",
+            "content": "<p>The delivery time is 3 to 5 days.</p>"
           }
         }
       },
