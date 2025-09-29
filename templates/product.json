@@ -430,12 +430,25 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_3fNVMK": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_URUzTU",
         "item_enXMT3",
-        "item_rbJamR"
+        "item_rbJamR",
+        "item_3fNVMK"
       ],
       "name": "Multi-column",
       "settings": {
@@ -444,7 +457,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Featured content",
+        "title": "All-in-One. All For You",
         "content": "",
         "background": "",
         "background_gradient": "",
