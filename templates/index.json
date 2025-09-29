@@ -402,7 +402,7 @@
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "medium",
-        "background": "#f9f9f9",
+        "background": "#fffdf4",
         "background_gradient": "",
         "text_color": ""
       }
@@ -542,10 +542,10 @@
         "text_color": ""
       }
     },
-    "image_link_blocks_4bjeQh": {
+    "image_link_blocks_X8jJaf": {
       "type": "image-link-blocks",
       "blocks": {
-        "item_BL3yzx": {
+        "item_T9GVF6": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123709.382.jpg",
@@ -558,7 +558,59 @@
             "overlay_opacity": 0
           }
         },
-        "item_iVgcmL": {
+        "item_4nKPzL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T161149.770.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_e7f9EV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T161154.040_76d9ffc6-5bc0-4851-b21f-3509187a509e.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_wPiVYp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T161146.538.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_FXG6Mt": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T161136.229.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_3A38Gp": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123702.833.jpg",
@@ -571,7 +623,7 @@
             "overlay_opacity": 0
           }
         },
-        "item_bXTpzx": {
+        "item_jLBVUd": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123650.380.jpg",
@@ -584,7 +636,7 @@
             "overlay_opacity": 0
           }
         },
-        "item_tWKTik": {
+        "item_pMteE8": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123655.708.jpg",
@@ -597,7 +649,7 @@
             "overlay_opacity": 0
           }
         },
-        "item_zMzPgM": {
+        "item_PB97eg": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123910.909.jpg",
@@ -610,7 +662,7 @@
             "overlay_opacity": 0
           }
         },
-        "item_DzXYh8": {
+        "item_qGNKNQ": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123858.512.jpg",
@@ -625,12 +677,16 @@
         }
       },
       "block_order": [
-        "item_BL3yzx",
-        "item_iVgcmL",
-        "item_bXTpzx",
-        "item_tWKTik",
-        "item_zMzPgM",
-        "item_DzXYh8"
+        "item_T9GVF6",
+        "item_4nKPzL",
+        "item_e7f9EV",
+        "item_wPiVYp",
+        "item_FXG6Mt",
+        "item_3A38Gp",
+        "item_jLBVUd",
+        "item_pMteE8",
+        "item_PB97eg",
+        "item_qGNKNQ"
       ],
       "name": "Image link blocks",
       "settings": {
@@ -772,7 +828,7 @@
     "multi_column_LVzAWD",
     "media_with_text_m6VqtT",
     "rich_text_FDbrAf",
-    "image_link_blocks_4bjeQh",
+    "image_link_blocks_X8jJaf",
     "testimonials_Vqd7QB",
     "faq_7adUCb"
   ]
