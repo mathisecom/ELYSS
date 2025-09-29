@@ -748,6 +748,23 @@
         "spacing": "none"
       }
     },
+    "scrolling_text_THXeTh": {
+      "type": "scrolling-text",
+      "disabled": true,
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "DRY. SMOOTH. CURL.",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#000000",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
+      }
+    },
     "rich_text_eQCkUq": {
       "type": "rich-text",
       "blocks": {
@@ -1047,6 +1064,7 @@
     "media_with_text_rMQPjm",
     "multi_column_EctGX3",
     "media_with_text_4GDQwc",
+    "scrolling_text_THXeTh",
     "rich_text_eQCkUq",
     "image_link_blocks_KDTyfW",
     "testimonials_yP4feD",
