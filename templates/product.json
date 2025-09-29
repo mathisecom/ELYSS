@@ -828,6 +828,7 @@
         "image_VBpRkw": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Titre_15.jpg",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
