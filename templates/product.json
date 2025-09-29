@@ -764,6 +764,7 @@
         "item_AjNXmh": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/91f86572491e46b89bf9dd47aca97c7f.HD-1080p-7.2Mbps-55054234.mp4",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
