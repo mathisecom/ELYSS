@@ -315,7 +315,7 @@
           "type": "image",
           "settings": {
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "custom_icon": "shopify://shop_images/Titre_2.png",
@@ -614,7 +614,7 @@
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
-            "subheading": "",
+            "subheading": "THE #1 HAIR STYLING TOOL",
             "title": "",
             "content": "",
             "link_text": "BUY NOW",
@@ -721,7 +721,7 @@
           "type": "image",
           "settings": {
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "custom_icon": "shopify://shop_images/Titre_1.png",
