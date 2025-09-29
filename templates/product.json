@@ -746,6 +746,78 @@
         "spacing": "none"
       }
     },
+    "multi_column_eUawWP": {
+      "type": "multi-column",
+      "blocks": {
+        "item_R6NNc6": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AjNXmh": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_FnHQBQ": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_cgrjDX": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_R6NNc6",
+        "item_AjNXmh",
+        "item_FnHQBQ",
+        "item_cgrjDX"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "THEY TESTED IT",
+        "title": "Approved it, and Adopted it.",
+        "content": "",
+        "background": "#ebe8f2",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "scrolling_text_THXeTh": {
       "type": "scrolling-text",
       "disabled": true,
@@ -1062,6 +1134,7 @@
     "media_with_text_rMQPjm",
     "multi_column_EctGX3",
     "media_with_text_4GDQwc",
+    "multi_column_eUawWP",
     "scrolling_text_THXeTh",
     "rich_text_eQCkUq",
     "image_link_blocks_KDTyfW",
