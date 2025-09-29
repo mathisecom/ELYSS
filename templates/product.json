@@ -101,7 +101,7 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "",
+            "title": "Use and safety",
             "content": "<p>- Minimum temperature: 25°C<br/>- Maximum temperature: 120°C<br/>- ION technology: YES<br/>- Suitable hair types: All hair types<br/>- Heating time: 5 seconds</p>",
             "page": ""
           }
@@ -147,7 +147,7 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "Write some content about what they says about your store.",
+            "content": "Absolutely worth it! My hair feels salon-fresh every time.",
             "show_rating": true,
             "rating": 4
           }
@@ -157,7 +157,7 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "Write some content about what they says about your store.",
+            "content": "Perfect for busy mornings—fuller, smoother hair in minutes!",
             "show_rating": true,
             "rating": 4
           }
@@ -167,7 +167,7 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "Write some content about what they says about your store.",
+            "content": "One tool does it all! Fast, soft, and healthy hair.",
             "show_rating": true,
             "rating": 4
           }
@@ -177,9 +177,9 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "Write some content about what they says about your store.",
+            "content": "Love how light and versatile this styling tool is!",
             "show_rating": true,
-            "rating": 4
+            "rating": 5
           }
         }
       },
