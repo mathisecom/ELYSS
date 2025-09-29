@@ -78,9 +78,8 @@
         },
         "liquid_RpeD4z": {
           "type": "liquid",
-          "disabled": true,
           "settings": {
-            "liquid": "<div class=\"product__text-container product__text-container-text_dtCfwh product__text-container--center product__text-container--horizontal product__text-container--100% product__text-container--multiple\" style=\"--item-count:2;--mobile-text-size: 1.4rem;--desktop-text-size: 1.6rem;--icon-scale:1.2;--column-gap:0.0em;--row-gap:0.0em;--padding:0.2857142857142857em;--bg-color:#f3f3f3;--corner-radius:0.4em;--border-size:0px;--border-color:#b7b7b7;--margin-top: 2.4rem;--margin-bottom: 0.0rem;\">\n  \n    <p class=\"product__text product__text-center\" style=\"--text-color:#121212;--icon-color:#121212;\">\n      \n        <img src=\"//sorosebeauty.com/cdn/shop/files/svgexport-12.svg?v=1738960106\" alt=\"\" width=\"auto\" height=\"auto\" loading=\"lazy\">\n      \n      <span>SHIPS NEXT DAY</span>\n    </p>\n  \n  \n    <p class=\"product__text product__text-center\" style=\"--text-color:#121212;--icon-color:#121212;\">\n      \n        <img src=\"//sorosebeauty.com/cdn/shop/files/svgexport-12.svg?v=1738960106\" alt=\"\" width=\"auto\" height=\"auto\" loading=\"lazy\">\n      \n      <span>60-DAY GUARANTEE</span>\n    </p>\n  \n  \n</div>"
+            "liquid": "<div style=\"display:flex; justify-content:center; align-items:center; gap:3rem;\">\n\n  <div style=\"display:flex; align-items:center; gap:0.6rem; font-size:9px; font-weight:500; letter-spacing:0.05em; color:#121212;\">\n    <img src=\"//norastyler.com/cdn/shop/files/svgexport-12.svg?v=1738593691\" \n         alt=\"check icon\" width=\"16\" height=\"16\" loading=\"lazy\">\n    <span>SHIPS NEXT DAY</span>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:0.6rem; font-size:9px; font-weight:500; letter-spacing:0.05em; color:#121212;\">\n    <img src=\"//norastyler.com/cdn/shop/files/svgexport-12.svg?v=1738593691\" \n         alt=\"check icon\" width=\"16\" height=\"16\" loading=\"lazy\">\n    <span>30-DAY GUARANTEE</span>\n  </div>\n\n</div>"
           }
         },
         "liquid_kGU8qM": {
