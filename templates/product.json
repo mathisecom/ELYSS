@@ -39,7 +39,7 @@
         "liquid_mLDETG": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"product__block product__block--custom_liquid\">\n  <style>\n    #people-viewing {\n      position: relative;\n      padding-left: 30px; /* espace pour le point clignotant */\n      font-size: 16px;\n      font-weight: bold;\n    }\n\n    #people-viewing::before {\n      content: '';\n      position: absolute;\n      left: 0;\n      top: 50%;\n      transform: translateY(-50%);\n      width: 12px;\n      height: 12px;\n      border-radius: 50%;\n      background-color: #8a2be2; /* violet */\n      box-shadow: 0 0 10px #8a2be2, 0 0 20px #8a2be2;\n      animation: glowing 3.5s infinite;\n    }\n\n    @keyframes glowing {\n      0% { box-shadow: 0 0 5px #8a2be2, 0 0 10px #8a2be2; }\n      50% { box-shadow: 0 0 20px #8a2be2, 0 0 30px #8a2be2; }\n      100% { box-shadow: 0 0 5px #8a2be2, 0 0 10px #8a2be2; }\n    }\n  </style>\n\n  <div id=\"people-viewing\">\n    Only <span id=\"stock-count\">3</span> left in stock.\n  </div>\n\n  <script>\n    function changeStockNumber() {\n      setTimeout(() => {\n        document.getElementById(\"stock-count\").textContent = \"3\";\n      }, 2000);\n    }\n\n    const observer = new IntersectionObserver((entries, observer) => {\n      entries.forEach(entry => {\n        if (entry.isIntersecting) {\n          changeStockNumber();\n          observer.disconnect();\n        }\n      });\n    }, { threshold: 0.5 });\n\n    observer.observe(document.getElementById(\"people-viewing\"));\n  </script>\n</div>"
+            "liquid": "<div class=\"product__block product__block--custom_liquid\">\n  <style>\n    #people-viewing {\n      position: relative;\n      padding-left: 30px; /* espace pour le point clignotant */\n      font-size: 16px;\n      font-weight: bold;\n    }\n\n    #people-viewing::before {\n      content: '';\n      position: absolute;\n      left: 0;\n      top: 50%;\n      transform: translateY(-50%);\n      width: 12px;\n      height: 12px;\n      border-radius: 50%;\n      background-color: #BBB4CF; /* couleur du point */\n      box-shadow: 0 0 10px #BBB4CF, 0 0 20px #BBB4CF;\n      animation: glowing 3.5s infinite;\n    }\n\n    @keyframes glowing {\n      0% { box-shadow: 0 0 5px #BBB4CF, 0 0 10px #BBB4CF; }\n      50% { box-shadow: 0 0 20px #BBB4CF, 0 0 30px #BBB4CF; }\n      100% { box-shadow: 0 0 5px #BBB4CF, 0 0 10px #BBB4CF; }\n    }\n  </style>\n\n  <div id=\"people-viewing\">\n    Only <span id=\"stock-count\">3</span> left in stock.\n  </div>\n\n  <script>\n    function changeStockNumber() {\n      setTimeout(() => {\n        document.getElementById(\"stock-count\").textContent = \"3\";\n      }, 2000);\n    }\n\n    const observer = new IntersectionObserver((entries, observer) => {\n      entries.forEach(entry => {\n        if (entry.isIntersecting) {\n          changeStockNumber();\n          observer.disconnect();\n        }\n      });\n    }, { threshold: 0.5 });\n\n    observer.observe(document.getElementById(\"people-viewing\"));\n  </script>\n</div>"
           }
         },
         "variant_picker": {
@@ -201,6 +201,112 @@
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
+      }
+    },
+    "image_link_blocks_FmR96g": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_HBdGWY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123709.382.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_tidF7Q": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123702.833.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_YyL8UJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123650.380.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_NBHCHP": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123655.708.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_Kn8nAG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123858.512.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_k3Q4dF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123910.909.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_HBdGWY",
+        "item_tidF7Q",
+        "item_YyL8UJ",
+        "item_NBHCHP",
+        "item_Kn8nAG",
+        "item_k3Q4dF"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "text_with_icons_FpVP7Q": {
@@ -691,112 +797,6 @@
         "item_P4tFzV",
         "item_YPKJ8V",
         "item_WLrzEi"
-      ],
-      "name": "Image link blocks",
-      "settings": {
-        "full_width": false,
-        "block_size": "medium",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "image_link_blocks_FmR96g": {
-      "type": "image-link-blocks",
-      "blocks": {
-        "item_HBdGWY": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123709.382.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_tidF7Q": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123702.833.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_YyL8UJ": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123650.380.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_NBHCHP": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123655.708.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_Kn8nAG": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123858.512.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_k3Q4dF": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T123910.909.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "item_HBdGWY",
-        "item_tidF7Q",
-        "item_YyL8UJ",
-        "item_NBHCHP",
-        "item_Kn8nAG",
-        "item_k3Q4dF"
       ],
       "name": "Image link blocks",
       "settings": {
