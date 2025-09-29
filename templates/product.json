@@ -992,6 +992,58 @@
             "overlay_opacity": 0
           }
         },
+        "item_KqcWt9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T161136.229.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_izVp8n": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T161146.538_cc04ade9-20ea-4b4e-9e17-32106685dc98.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_WFBqAt": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T161149.770_e81df23b-31eb-48c7-91e0-b9d57606cbfc.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_Mi8x6M": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-29T161154.040_76d9ffc6-5bc0-4851-b21f-3509187a509e.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
         "item_7pgxRw": {
           "type": "item",
           "settings": {
@@ -1073,6 +1125,10 @@
       },
       "block_order": [
         "item_gftncW",
+        "item_KqcWt9",
+        "item_izVp8n",
+        "item_WFBqAt",
+        "item_Mi8x6M",
         "item_7pgxRw",
         "item_grYMip",
         "item_P4tFzV",
