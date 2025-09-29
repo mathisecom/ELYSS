@@ -361,24 +361,10 @@
     "multi_column_4jj37M": {
       "type": "multi-column",
       "blocks": {
-        "item_WijYWq": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/aeris-multi-styler-30mm-attachment_1.jpg",
-            "column_size": "3",
-            "title": "30mm Airflow Curler",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_mQXFmc": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/aeris-multi-styler-40mm-attachment_1.jpg",
+            "image": "shopify://shop_images/Titre_11.jpg",
             "column_size": "4",
             "title": "Airflow Curler",
             "heading_tag": "h4",
@@ -391,7 +377,7 @@
         "item_4FCa3G": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/aeris-multi-styler-hair-dryer-attachment_1.jpg",
+            "image": "shopify://shop_images/Titre_10_d6ab8be4-c366-4587-b3ba-9753301bf663.jpg",
             "column_size": "4",
             "title": "Hair Dryer",
             "heading_tag": "h4",
@@ -404,7 +390,7 @@
         "item_daCqAC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/aeris-multi-styler-xl-round-blowout-brush-attachment_1.jpg",
+            "image": "shopify://shop_images/Titre_8_f9be7e56-47bf-44a3-a675-f5c2bbbfd0f4.jpg",
             "column_size": "4",
             "title": "Volume Brush",
             "heading_tag": "h4",
@@ -417,7 +403,7 @@
         "item_xHnG3U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/aeris-multi-styler-smoothing-paddle-brush-attachment_1.jpg",
+            "image": "shopify://shop_images/Titre_9.jpg",
             "column_size": "4",
             "title": "Shapes",
             "heading_tag": "h4",
@@ -443,7 +429,6 @@
         }
       },
       "block_order": [
-        "item_WijYWq",
         "item_mQXFmc",
         "item_4FCa3G",
         "item_daCqAC",
