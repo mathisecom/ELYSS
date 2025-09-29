@@ -136,6 +136,7 @@
         "item_WijYWq": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/aeris-multi-styler-30mm-attachment_1.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -148,6 +149,7 @@
         "item_mQXFmc": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/aeris-multi-styler-40mm-attachment_1.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -160,6 +162,7 @@
         "item_4FCa3G": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/aeris-multi-styler-hair-dryer-attachment_1.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -172,6 +175,7 @@
         "item_daCqAC": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/aeris-multi-styler-xl-round-blowout-brush-attachment_1.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -184,6 +188,7 @@
         "item_cfN3aw": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/aeris-multi-styler-oval-volumising-attachment_1.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -196,6 +201,7 @@
         "item_xHnG3U": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/aeris-multi-styler-smoothing-paddle-brush-attachment_1.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
