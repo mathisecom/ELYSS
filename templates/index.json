@@ -415,9 +415,9 @@
           "settings": {
             "image": "shopify://shop_images/Titre_13.jpg",
             "column_size": "4",
-            "title": "Column title",
+            "title": "Airflow Curler",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p>Create soft, bouncy curls in minutes.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -428,9 +428,9 @@
           "settings": {
             "image": "shopify://shop_images/Titre_8_f9be7e56-47bf-44a3-a675-f5c2bbbfd0f4.jpg",
             "column_size": "4",
-            "title": "Column title",
+            "title": "Volume Brush",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p>Adds lift and fullness from the roots.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -441,9 +441,9 @@
           "settings": {
             "image": "shopify://shop_images/Titre_10_d6ab8be4-c366-4587-b3ba-9753301bf663.jpg",
             "column_size": "4",
-            "title": "Column title",
+            "title": "Hair Dryer",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p>Fast drying while keeping natural shine.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -454,9 +454,9 @@
           "settings": {
             "image": "shopify://shop_images/Titre_9.jpg",
             "column_size": "4",
-            "title": "Column title",
+            "title": "Shapes",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p>Smooths or waves for versatile styles.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
