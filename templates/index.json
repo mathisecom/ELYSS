@@ -277,8 +277,8 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Salon-Quality Hair, Every Day",
+            "content": "<p><strong>Transform your daily routine</strong> with the HairStyling Brush – your all-in-one tool for sleek, shiny styles or voluminous curls.</p><p>With six innovative attachments, you can effortlessly create <strong>professional results</strong> from the comfort of home. Perfect for <strong>every hair type and every style.</strong></p>",
             "link_text": "",
             "link_url": "",
             "background": "#ebe8f2",
@@ -295,7 +295,7 @@
       ],
       "name": "Media with text",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "alternate_media_position": false,
         "spacing": "none"
       }
