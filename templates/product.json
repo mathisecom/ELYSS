@@ -33,7 +33,7 @@
         "liquid_K8gL96": {
           "type": "liquid",
           "settings": {
-            "liquid": ""
+            "liquid": "<div class=\"product__info-higlights-item flex-align-center\">\n        <div class=\"product__info-higlights-item-icon icon_text_new\">\n          <img height=\"auto\" src=\"//dripl.de/cdn/shop/files/curling-hair_1024x1024.svg?v=1712237677\">\n        </div>\n        <div class=\"flex-1\">\n          <p>All-in-one styling tool</p>\n        </div>\n      </div>"
           }
         },
         "liquid_mLDETG": {
@@ -264,6 +264,7 @@
         "item_XFt6pF",
         "item_A9biVb"
       ],
+      "disabled": true,
       "name": "Text with icons",
       "settings": {
         "full_width": true,
