@@ -400,12 +400,12 @@
             "link_style": "link"
           }
         },
-        "item_cfN3aw": {
+        "item_xHnG3U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/aeris-multi-styler-oval-volumising-attachment_1.jpg",
+            "image": "shopify://shop_images/aeris-multi-styler-smoothing-paddle-brush-attachment_1.jpg",
             "column_size": "4",
-            "title": "Blowout Brush",
+            "title": "Shapes",
             "heading_tag": "h4",
             "content": "",
             "link_url": "",
@@ -413,13 +413,13 @@
             "link_style": "link"
           }
         },
-        "item_xHnG3U": {
+        "item_cfN3aw": {
           "type": "item",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/aeris-multi-styler-smoothing-paddle-brush-attachment_1.jpg",
-            "column_size": "3",
-            "title": "Shapes",
+            "image": "shopify://shop_images/aeris-multi-styler-oval-volumising-attachment_1.jpg",
+            "column_size": "4",
+            "title": "Blowout Brush",
             "heading_tag": "h4",
             "content": "",
             "link_url": "",
@@ -433,8 +433,8 @@
         "item_mQXFmc",
         "item_4FCa3G",
         "item_daCqAC",
-        "item_cfN3aw",
-        "item_xHnG3U"
+        "item_xHnG3U",
+        "item_cfN3aw"
       ],
       "name": "Multi-column",
       "settings": {
