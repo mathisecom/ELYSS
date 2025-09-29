@@ -428,7 +428,7 @@
             "content": "<p><strong>Transform your daily routine</strong> with the HairStyling Brush – your all-in-one tool for sleek, shiny styles or voluminous curls.</p><p>With six innovative attachments, you can effortlessly create <strong>professional results</strong> from the comfort of home. Perfect for <strong>every hair type and every style.</strong></p>",
             "link_text": "DISCOVER",
             "link_url": "shopify://products/elyss-multistyler",
-            "background": "#ebe8f2",
+            "background": "#fffdf4",
             "background_gradient": "",
             "text_color": "#1a1a1a",
             "text_gradient": "",
@@ -635,8 +635,61 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "testimonial_card_background": "#ebe8f2",
+        "testimonial_card_background": "#f9f9f9",
         "testimonial_card_text_color": ""
+      }
+    },
+    "faq_7adUCb": {
+      "type": "faq",
+      "blocks": {
+        "item_qY9WDx": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_mwTVFL": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_i4QnxY": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_qY9WDx",
+        "item_mwTVFL",
+        "item_i4QnxY"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
       }
     }
   },
@@ -651,6 +704,7 @@
     "media_with_text_m6VqtT",
     "rich_text_FDbrAf",
     "image_link_blocks_4bjeQh",
-    "testimonials_Vqd7QB"
+    "testimonials_Vqd7QB",
+    "faq_7adUCb"
   ]
 }
