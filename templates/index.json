@@ -18,8 +18,8 @@
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
+            "subheading": "",
+            "title": "",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -27,7 +27,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "background": "",
             "background_gradient": ""
           }
@@ -48,9 +48,52 @@
         "background": "#f2f2f2",
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
+    },
+    "slideshow_CiTpwE": {
+      "type": "slideshow",
+      "blocks": {
+        "image_rCtBN4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bande_1600x_1600x_4240eb4b-dcab-4efe-8c5d-3909b1e49211.png",
+            "mobile_image": "shopify://shop_images/bande_1600x_1600x_4240eb4b-dcab-4efe-8c5d-3909b1e49211.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_rCtBN4"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "numbers",
+        "transition_type": "fade_with_text",
+        "autoplay": true,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
     }
   },
   "order": [
-    "slideshow"
+    "slideshow",
+    "slideshow_CiTpwE"
   ]
 }
