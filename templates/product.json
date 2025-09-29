@@ -1127,12 +1127,28 @@
             "title": "Any question?",
             "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
           }
+        },
+        "item_9ytGBR": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        },
+        "item_C37QRQ": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
         }
       },
       "block_order": [
         "item_Ph8CzX",
         "item_w6LUhp",
-        "item_bziUUL"
+        "item_bziUUL",
+        "item_9ytGBR",
+        "item_C37QRQ"
       ],
       "name": "FAQ",
       "settings": {
