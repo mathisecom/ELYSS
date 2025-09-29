@@ -95,17 +95,6 @@
             "content": "<p>Share some content to your customers about your products.</p>",
             "page": ""
           }
-        },
-        "collapsible_text_hMgiRp": {
-          "type": "collapsible_text",
-          "disabled": true,
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -119,8 +108,7 @@
         "buy_buttons",
         "liquid_kGU8qM",
         "collapsible_text_69mEDW",
-        "collapsible_text_6TeCJR",
-        "collapsible_text_hMgiRp"
+        "collapsible_text_6TeCJR"
       ],
       "settings": {
         "full_width": true,
