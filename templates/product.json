@@ -74,6 +74,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_kGU8qM": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "collapsible_text_69mEDW": {
           "type": "collapsible_text",
           "settings": {
@@ -115,6 +121,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "liquid_kGU8qM",
         "collapsible_text_69mEDW",
         "collapsible_text_6TeCJR",
         "collapsible_text_hMgiRp"
