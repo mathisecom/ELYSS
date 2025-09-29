@@ -23,6 +23,7 @@
         },
         "message": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "Free Shipping",
             "url": ""
