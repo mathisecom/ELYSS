@@ -295,7 +295,7 @@
       "name": "Image link blocks",
       "settings": {
         "full_width": false,
-        "block_size": "small",
+        "block_size": "medium",
         "subheading": "",
         "title": "",
         "content": "",
@@ -723,7 +723,7 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
+            "title": "Fast, Easy, and Effortless",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
             "link_text": "BUY NOW",
             "link_url": "",
