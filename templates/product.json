@@ -123,6 +123,7 @@
         },
         "collapsible_text_QrUD8c": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
@@ -218,6 +219,7 @@
         "quote_PDCTJB",
         "quote_MDgfVj"
       ],
+      "disabled": true,
       "name": "Press",
       "settings": {
         "full_width": true,
@@ -391,6 +393,7 @@
         "item_k3Q4dF",
         "item_6KDbi4"
       ],
+      "disabled": true,
       "name": "Image link blocks",
       "settings": {
         "full_width": false,
@@ -437,6 +440,7 @@
       "block_order": [
         "image_kHDajH"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": true,
@@ -521,6 +525,7 @@
         "item_xHnG3U",
         "item_cfN3aw"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -537,6 +542,7 @@
     },
     "scrolling_text_9q9xWe": {
       "type": "scrolling-text",
+      "disabled": true,
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
@@ -617,6 +623,7 @@
         "item_XFt6pF",
         "item_A9biVb"
       ],
+      "disabled": true,
       "name": "Text with icons",
       "settings": {
         "full_width": true,
@@ -678,6 +685,7 @@
         "item_rza8Ex",
         "item_c8CC7n"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -721,6 +729,7 @@
       "block_order": [
         "image_66T7wD"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": true,
@@ -790,6 +799,7 @@
         "item_rbJamR",
         "item_enXMT3"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -833,6 +843,7 @@
       "block_order": [
         "image_wa6y66"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": true,
@@ -870,6 +881,7 @@
       "block_order": [
         "image_VBpRkw"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": true,
@@ -939,6 +951,7 @@
         "item_AjNXmh",
         "item_cgrjDX"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -986,6 +999,7 @@
       "block_order": [
         "heading_QztVqV"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -1156,6 +1170,7 @@
         "item_WLrzEi",
         "item_g848T3"
       ],
+      "disabled": true,
       "name": "Image link blocks",
       "settings": {
         "full_width": false,
@@ -1319,6 +1334,7 @@
         "item_9ytGBR",
         "item_C37QRQ"
       ],
+      "disabled": true,
       "name": "FAQ",
       "settings": {
         "full_width": true,
