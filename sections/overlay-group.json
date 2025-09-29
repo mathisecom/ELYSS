@@ -40,7 +40,9 @@
         "show_view_cart_button": false,
         "show_checkout_button": true,
         "recommendations_title": "Trending this month",
-        "products": [],
+        "products": [
+          "heat-protect-spray"
+        ],
         "product_card_background": "#f2f2f2",
         "product_card_text_color": ""
       }
