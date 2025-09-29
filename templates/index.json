@@ -98,8 +98,8 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
+            "author": "Célia A.",
+            "content": "Absolutely worth it! My hair feels salon-fresh every time.",
             "show_rating": true,
             "rating": 4
           }
@@ -108,8 +108,8 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
+            "author": "Mary U.",
+            "content": "Perfect for busy mornings—fuller, smoother hair in minutes!",
             "show_rating": true,
             "rating": 4
           }
@@ -118,8 +118,18 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
+            "author": "Laura T.",
+            "content": "One tool does it all! Fast, soft, and healthy hair.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_brbrh9": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Célia J.",
+            "content": "Love how light and versatile this styling tool is!",
             "show_rating": true,
             "rating": 4
           }
@@ -128,7 +138,8 @@
       "block_order": [
         "quote_RKzARy",
         "quote_bjUwRp",
-        "quote_NqmXpa"
+        "quote_NqmXpa",
+        "quote_brbrh9"
       ],
       "name": "Press",
       "settings": {
