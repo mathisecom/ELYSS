@@ -324,7 +324,7 @@
             "content": "<p>Transform your daily routine with the HairStyling Brush – your all-in-one tool for sleek, shiny styles or voluminous curls. </p><p>With six innovative attachments, you can effortlessly create professional results from the comfort of home. Perfect for every hair type and every style.</p>",
             "link_text": "BUY NOW",
             "link_url": "",
-            "background": "#ebe8f2",
+            "background": "#fffdf4",
             "background_gradient": "",
             "text_color": "#000000",
             "text_gradient": "",
@@ -533,7 +533,7 @@
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "medium",
-        "background": "#f7f7f7",
+        "background": "#fffdf4",
         "background_gradient": "",
         "text_color": ""
       }
