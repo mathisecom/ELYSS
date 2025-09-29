@@ -735,6 +735,42 @@
         "image_wa6y66": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Ontwerp-zonder-titel-18.webp",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 80,
+            "subheading": "",
+            "title": "Fast, Easy, and Effortless",
+            "content": "<p><strong>Say goodbye to long hours of hair styling!</strong> </p><p>The HairStyling Brush combines power, precision, and ease of use in one compact tool. Whether it’s a quick morning blowout or a full styling session, achieve flawless results every time.</p>",
+            "link_text": "BUY NOW",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_wa6y66"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "media_with_text_z4Dcbt": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_VBpRkw": {
+          "type": "image",
+          "settings": {
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
@@ -756,7 +792,7 @@
         }
       },
       "block_order": [
-        "image_wa6y66"
+        "image_VBpRkw"
       ],
       "name": "Media with text",
       "settings": {
@@ -1187,6 +1223,7 @@
     "media_with_text_rMQPjm",
     "multi_column_EctGX3",
     "media_with_text_4GDQwc",
+    "media_with_text_z4Dcbt",
     "multi_column_eUawWP",
     "scrolling_text_THXeTh",
     "rich_text_eQCkUq",
