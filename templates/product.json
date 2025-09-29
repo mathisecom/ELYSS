@@ -392,6 +392,65 @@
         "spacing": "none"
       }
     },
+    "multi_column_EctGX3": {
+      "type": "multi-column",
+      "blocks": {
+        "item_URUzTU": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_enXMT3": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_rbJamR": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_URUzTU",
+        "item_enXMT3",
+        "item_rbJamR"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Featured content",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_with_text_4GDQwc": {
       "type": "media-with-text",
       "blocks": {
@@ -715,6 +774,7 @@
     "multi_column_4jj37M",
     "scrolling_text_9q9xWe",
     "media_with_text_rMQPjm",
+    "multi_column_EctGX3",
     "media_with_text_4GDQwc",
     "rich_text_eQCkUq",
     "image_link_blocks_KDTyfW",
