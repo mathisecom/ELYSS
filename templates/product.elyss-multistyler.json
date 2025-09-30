@@ -848,7 +848,7 @@
           "settings": {
             "image": "shopify://shop_images/Titre_15.jpg",
             "media_width": 50,
-            "media_position": "end",
+            "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "custom_icon": "shopify://shop_images/Titre_1.png",
