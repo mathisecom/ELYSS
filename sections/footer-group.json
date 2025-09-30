@@ -88,16 +88,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "image": "shopify://shop_images/AWARDS-2024_web_2.png",
-            "image_width": 200,
-            "heading_size": "h3",
-            "title": "Subscribe to our Newsletter",
-            "content": "<p>Join our mailing list to receive exclusive offers and the latest updates.</p>"
-          }
-        },
         "links": {
           "type": "links",
           "settings": {
@@ -116,7 +106,6 @@
         }
       },
       "block_order": [
-        "newsletter",
         "links",
         "text"
       ],
