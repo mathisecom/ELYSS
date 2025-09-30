@@ -109,8 +109,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "Customer Service",
-            "content": "<p>Email : hello@elyss-beauty.com</p><p><strong>Hours</strong>:<strong> </strong>Monday to Friday from 9 AM to 12 PM and 2 PM to 6 PM / Saturday and Sunday from 10 AM to 12 PM</p>",
+            "title": "Need help ?",
+            "content": "<p>hello@elyss-beauty.com</p>",
             "enable_follow_on_shop": false
           }
         }
