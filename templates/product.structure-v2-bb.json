@@ -1056,6 +1056,7 @@
       "block_order": [
         "image_66T7wD"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": true,
