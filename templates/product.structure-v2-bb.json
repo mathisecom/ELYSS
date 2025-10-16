@@ -568,6 +568,65 @@
         "heading_gradient": ""
       }
     },
+    "multi_column_bExG9e": {
+      "type": "multi-column",
+      "blocks": {
+        "item_kgq8xR": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8hHJAP": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_qkNLkk": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_kgq8xR",
+        "item_8hHJAP",
+        "item_qkNLkk"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "<h3><strong>You Turn To Join The Glow UP</strong></h3>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_with_text_dTUYxg": {
       "type": "media-with-text",
       "blocks": {
@@ -886,7 +945,6 @@
       "block_order": [
         "image_66T7wD"
       ],
-      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": true,
@@ -1426,6 +1484,7 @@
     "main",
     "press_CWB96A",
     "image_link_blocks_FmR96g",
+    "multi_column_bExG9e",
     "media_with_text_dTUYxg",
     "multi_column_4jj37M",
     "scrolling_text_9q9xWe",
