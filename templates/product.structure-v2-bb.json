@@ -1214,8 +1214,8 @@
         "gap": "small",
         "text_alignment": "center",
         "subheading": "THEY TESTED IT",
-        "title": "Approved it, and Adopted it.",
-        "content": "",
+        "title": "",
+        "content": "<h3>Approved it, and Adopted it.</h3>",
         "background": "#fffdf4",
         "background_gradient": "",
         "text_color": ""
