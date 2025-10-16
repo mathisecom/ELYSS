@@ -50,6 +50,78 @@
         "background_gradient": ""
       }
     },
+    "ss_scrolling_logo_cloud_XD7kQJ": {
+      "type": "ss-scrolling-logo-cloud",
+      "blocks": {
+        "slide_84dFRC": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/VOG_1.webp",
+            "link": ""
+          }
+        },
+        "slide_BGHtHk": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/MAR.webp",
+            "link": ""
+          }
+        },
+        "slide_kaTadx": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/COS.webp",
+            "link": ""
+          }
+        },
+        "slide_AQ6Jbr": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/ALL.webp",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_84dFRC",
+        "slide_BGHtHk",
+        "slide_kaTadx",
+        "slide_AQ6Jbr"
+      ],
+      "name": "SS - Scrolling logo cloud",
+      "settings": {
+        "ss_title": "",
+        "heading_custom": false,
+        "heading_font": "assistant_n4",
+        "header_size": 30,
+        "header_align": "center",
+        "scrolling_velocity": 18,
+        "slider_direction": "left",
+        "pause_hover": false,
+        "shadow": false,
+        "slider_advanced": true,
+        "sliders_mt": 0,
+        "logo_padding_top": 2,
+        "logo_padding_bottom": 0,
+        "slider_gap": 88,
+        "slider_gap_mobile": 66,
+        "icon_width": 100,
+        "slider_background_color": "#fffdf4",
+        "header_color": "#121212",
+        "background_style": "solid",
+        "background_color": "#fffdf4",
+        "background_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(242, 242, 242, 1) 100%)",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "width": "full",
+        "content_width": 1200,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
     "slideshow_Qpp3q9": {
       "type": "slideshow",
       "blocks": {
@@ -1518,6 +1590,7 @@
   },
   "order": [
     "slideshow_4MBMkV",
+    "ss_scrolling_logo_cloud_XD7kQJ",
     "slideshow_Qpp3q9",
     "multi_column_EctGX3",
     "main",
