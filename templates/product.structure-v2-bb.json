@@ -131,6 +131,7 @@
         "image_dkKrdt": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Fast_drying_from_wet_to_styled_in_10_minutes_with_ZERO_heat_damage..jpg",
             "mobile_image": "shopify://shop_images/Sous-titre.svg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
@@ -155,7 +156,7 @@
       ],
       "name": "Slideshow",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "allow_transparent_header": false,
         "show_initial_transition": false,
         "image_size": "auto",
@@ -163,7 +164,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#f2f2f2",
+        "background": "#ffffff",
         "background_gradient": ""
       }
     },
