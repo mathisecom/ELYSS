@@ -683,7 +683,6 @@
         "item_xHnG3U",
         "item_cfN3aw"
       ],
-      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -1329,47 +1328,6 @@
         "testimonial_card_text_color": ""
       }
     },
-    "images_with_text_scrolling_nymfTr": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_zGK4Pr": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "item_LEjt8j": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_zGK4Pr",
-        "item_LEjt8j"
-      ],
-      "disabled": true,
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "faq_QwdHLP": {
       "type": "faq",
       "blocks": {
@@ -1416,7 +1374,6 @@
         "item_9ytGBR",
         "item_C37QRQ"
       ],
-      "disabled": true,
       "name": "FAQ",
       "settings": {
         "full_width": true,
@@ -1438,6 +1395,27 @@
         "button_text_color": "",
         "accordion_background": "#f9f9f9",
         "accordion_text_color": ""
+      }
+    },
+    "contact_e8XRHc": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Contact Us",
+        "title": "Do you have any question?",
+        "content": "",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     }
   },
@@ -1461,7 +1439,7 @@
     "rich_text_eQCkUq",
     "image_link_blocks_KDTyfW",
     "testimonials_yP4feD",
-    "images_with_text_scrolling_nymfTr",
-    "faq_QwdHLP"
+    "faq_QwdHLP",
+    "contact_e8XRHc"
   ]
 }
