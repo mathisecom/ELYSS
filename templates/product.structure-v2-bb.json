@@ -50,66 +50,6 @@
         "background_gradient": ""
       }
     },
-    "logo_list_9YcrxG": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_ALQFPL": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/VOG_1.webp",
-            "logo_width": 70,
-            "link": ""
-          }
-        },
-        "logo_ATgHmF": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/MAR.webp",
-            "logo_width": 80,
-            "link": ""
-          }
-        },
-        "logo_nCdJQL": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/ALL.webp",
-            "logo_width": 60,
-            "link": ""
-          }
-        },
-        "logo_NXAtGY": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/COS.webp",
-            "logo_width": 70,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_ALQFPL",
-        "logo_ATgHmF",
-        "logo_nCdJQL",
-        "logo_NXAtGY"
-      ],
-      "disabled": true,
-      "name": "Logo list",
-      "settings": {
-        "full_width": false,
-        "stack_mobile": false,
-        "title": "",
-        "content": "<p>SEEN ON</p>",
-        "text_alignment": "center",
-        "items_per_row": 4,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "#ffffff",
-        "logo_item_border": ""
-      }
-    },
     "slideshow_Qpp3q9": {
       "type": "slideshow",
       "blocks": {
@@ -149,6 +89,82 @@
         "cycle_speed": 6,
         "background": "#F2F2F2",
         "background_gradient": ""
+      }
+    },
+    "multi_column_EctGX3": {
+      "type": "multi-column",
+      "blocks": {
+        "item_URUzTU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Photo_1a_1.webp",
+            "column_size": "4",
+            "title": "OPTIMAL PRE-DRYING",
+            "heading_tag": "h4",
+            "content": "<p>Prepare your hair perfectly for styling with a broad, precise airflow.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3fNVMK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Photo_3a_1.webp",
+            "column_size": "4",
+            "title": "CURLING FUNCTION",
+            "heading_tag": "h4",
+            "content": "<p>Easily create gorgeous curls, left or right, with two included curling barrels. Specially designed for voluminous curls and waves without excessive heat.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_rbJamR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Photo_4a_1.webp",
+            "column_size": "4",
+            "title": "SMOOTHING BRUSH",
+            "heading_tag": "h4",
+            "content": "<p>Replaces the traditional flat iron with an ionic smoothing attachment. Makes your hair smooth and silky, even for curly or frizzy hair.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_enXMT3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Photo_2a_1.webp",
+            "column_size": "4",
+            "title": "ROUND VOLUMIZING BRUSH",
+            "heading_tag": "h4",
+            "content": "<p>Adds more volume and movement. Ideal for adding volume to all hair types, except for afro-textured hair.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_URUzTU",
+        "item_3fNVMK",
+        "item_rbJamR",
+        "item_enXMT3"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "All-in-One. All For You",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "main": {
@@ -879,83 +895,6 @@
         "spacing": "none"
       }
     },
-    "multi_column_EctGX3": {
-      "type": "multi-column",
-      "blocks": {
-        "item_URUzTU": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Photo_1a_1.webp",
-            "column_size": "4",
-            "title": "OPTIMAL PRE-DRYING",
-            "heading_tag": "h4",
-            "content": "<p>Prepare your hair perfectly for styling with a broad, precise airflow.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_3fNVMK": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Photo_3a_1.webp",
-            "column_size": "4",
-            "title": "CURLING FUNCTION",
-            "heading_tag": "h4",
-            "content": "<p>Easily create gorgeous curls, left or right, with two included curling barrels. Specially designed for voluminous curls and waves without excessive heat.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_rbJamR": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Photo_4a_1.webp",
-            "column_size": "4",
-            "title": "SMOOTHING BRUSH",
-            "heading_tag": "h4",
-            "content": "<p>Replaces the traditional flat iron with an ionic smoothing attachment. Makes your hair smooth and silky, even for curly or frizzy hair.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_enXMT3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Photo_2a_1.webp",
-            "column_size": "4",
-            "title": "ROUND VOLUMIZING BRUSH",
-            "heading_tag": "h4",
-            "content": "<p>Adds more volume and movement. Ideal for adding volume to all hair types, except for afro-textured hair.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_URUzTU",
-        "item_3fNVMK",
-        "item_rbJamR",
-        "item_enXMT3"
-      ],
-      "disabled": true,
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "All-in-One. All For You",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "media_with_text_4GDQwc": {
       "type": "media-with-text",
       "blocks": {
@@ -1504,8 +1443,8 @@
   },
   "order": [
     "slideshow_4MBMkV",
-    "logo_list_9YcrxG",
     "slideshow_Qpp3q9",
+    "multi_column_EctGX3",
     "main",
     "press_CWB96A",
     "image_link_blocks_FmR96g",
@@ -1515,7 +1454,6 @@
     "text_with_icons_FpVP7Q",
     "multi_column_gtgKtF",
     "media_with_text_rMQPjm",
-    "multi_column_EctGX3",
     "media_with_text_4GDQwc",
     "media_with_text_z4Dcbt",
     "multi_column_eUawWP",
