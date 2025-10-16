@@ -15,8 +15,8 @@
         "image_FXCexY": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BANNER_PC_7da6f6e6-3d2b-4d93-94b9-e3eed933ace6.jpg",
-            "mobile_image": "shopify://shop_images/BANNER_MOBILE_88.jpg",
+            "image": "shopify://shop_images/BANNER_PC_1.jpg",
+            "mobile_image": "shopify://shop_images/BANNER_MOBILE.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
