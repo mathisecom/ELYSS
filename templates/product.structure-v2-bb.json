@@ -76,6 +76,7 @@
         },
         "slide_AQ6Jbr": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/ALL.webp",
             "link": ""
@@ -95,7 +96,7 @@
         "heading_font": "assistant_n4",
         "header_size": 30,
         "header_align": "center",
-        "scrolling_velocity": 18,
+        "scrolling_velocity": 13,
         "slider_direction": "left",
         "pause_hover": false,
         "shadow": false,
