@@ -15,7 +15,7 @@
         "image_FXCexY": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BANNER_PC_3.jpg",
+            "image": "shopify://shop_images/BANNER_PC_7da6f6e6-3d2b-4d93-94b9-e3eed933ace6.jpg",
             "mobile_image": "shopify://shop_images/BANNER_MOBILE_88.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
@@ -1150,6 +1150,22 @@
         "spacing": "none"
       }
     },
+    "scrolling_text_THXeTh": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "DRY. SMOOTH. CURL.",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#000000",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
+      }
+    },
     "multi_column_eUawWP": {
       "type": "multi-column",
       "blocks": {
@@ -1224,22 +1240,6 @@
         "background": "#f3f0eb",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "scrolling_text_THXeTh": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "DRY. SMOOTH. CURL.",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "#000000",
-        "background_gradient": "",
-        "text_color": "#ffffff",
-        "text_gradient": ""
       }
     },
     "rich_text_eQCkUq": {
