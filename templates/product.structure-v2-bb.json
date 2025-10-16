@@ -649,6 +649,7 @@
         "item_kgq8xR": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/o35YlLTg0C.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -661,6 +662,7 @@
         "item_8hHJAP": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/review3.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -673,6 +675,7 @@
         "item_qkNLkk": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/review6_2.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
