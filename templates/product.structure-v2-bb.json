@@ -131,6 +131,7 @@
         "image_dkKrdt": {
           "type": "image",
           "settings": {
+            "mobile_image": "shopify://shop_images/Sous-titre.svg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
