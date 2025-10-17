@@ -1577,6 +1577,33 @@
         "accordion_text_color": ""
       }
     },
+    "1760619407938d982d": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_xRe3VX": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": true,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_xRe3VX"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "contact_e8XRHc": {
       "type": "contact",
       "name": "Contact form",
@@ -1596,33 +1623,6 @@
         "contact_text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "1760619407938d982d": {
-      "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_xRe3VX": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_xRe3VX"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     }
   },
@@ -1649,7 +1649,7 @@
     "image_link_blocks_KDTyfW",
     "testimonials_yP4feD",
     "faq_QwdHLP",
-    "contact_e8XRHc",
-    "1760619407938d982d"
+    "1760619407938d982d",
+    "contact_e8XRHc"
   ]
 }
