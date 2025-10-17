@@ -15,8 +15,8 @@
         "image_FXCexY": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BANNER_PC_1.jpg",
-            "mobile_image": "shopify://shop_images/BANNER_MOBILE.jpg",
+            "image": "shopify://shop_images/ELYSS_BANNER_PC_OPTI.webp",
+            "mobile_image": "shopify://shop_images/ELYSS_BANNER_MOBILE_OPTI.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -131,8 +131,8 @@
         "image_dkKrdt": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Fast_drying_from_wet_to_styled_in_10_minutes_with_ZERO_heat_damage..jpg",
-            "mobile_image": "shopify://shop_images/Sous-titre_1.svg",
+            "image": "shopify://shop_images/ELYSS_product_benefits_PC_opti.webp",
+            "mobile_image": "shopify://shop_images/ELYSS_product_benefits_mobile_opti.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -338,6 +338,7 @@
         },
         "collapsible_text_69mEDW": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
