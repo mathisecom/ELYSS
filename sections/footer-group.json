@@ -73,6 +73,7 @@
         "discount",
         "payment"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
@@ -88,6 +89,16 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "newsletter_Qh86ee": {
+          "type": "newsletter",
+          "settings": {
+            "image": "shopify://shop_images/Logo_3_1.png",
+            "image_width": 150,
+            "heading_size": "h3",
+            "title": "Sign up to our newsletter",
+            "content": ""
+          }
+        },
         "links": {
           "type": "links",
           "settings": {
@@ -106,6 +117,7 @@
         }
       },
       "block_order": [
+        "newsletter_Qh86ee",
         "links",
         "text"
       ],
