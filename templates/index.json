@@ -103,6 +103,63 @@
         "product_card_text_color": ""
       }
     },
+    "collection_list_TVn8Kf": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_REHrm6": {
+          "type": "collection",
+          "settings": {
+            "collection": "shoes",
+            "image": "shopify://shop_images/image-gen_3.png",
+            "subheading": "",
+            "title": "SHOES",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        },
+        "collection_iJ4Qcx": {
+          "type": "collection",
+          "settings": {
+            "collection": "clothing",
+            "image": "shopify://shop_images/76e02bbd-200b-4bb1-a423-b6136c450cb0.webp",
+            "subheading": "",
+            "title": "CLOTHING",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "collection_REHrm6",
+        "collection_iJ4Qcx"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "full_width": true,
+        "stack_collections": true,
+        "collections_per_row_mobile": "1",
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "testimonials_Vqd7QB": {
       "type": "testimonials",
       "blocks": {
@@ -239,6 +296,7 @@
     "slideshow",
     "rich_text_ndeixC",
     "featured_collection_DYeVic",
+    "collection_list_TVn8Kf",
     "testimonials_Vqd7QB",
     "faq_7adUCb"
   ]
