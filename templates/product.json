@@ -52,6 +52,77 @@
         "background_gradient": ""
       }
     },
+    "rich_text_yJDKVp": {
+      "type": "rich-text",
+      "blocks": {
+        "button_Rqj4ag": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "CHECK AVAILABILITY",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "button_Rqj4ag"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "slideshow_ETBfYy": {
+      "type": "slideshow",
+      "blocks": {
+        "image_L48YV7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copie_de_Section_benefice_HR_new_desktop_18.jpg",
+            "mobile_image": "shopify://shop_images/FINALLY_SAFETY_SHOES_THAT_DON_T_DESTROY_YOU_4.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_L48YV7"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -199,7 +270,7 @@
         "show_fixed_add_to_cart": true,
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
+        "mobile_media_size": "contained",
         "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": false,
         "enable_video_looping": true,
@@ -1405,6 +1476,8 @@
   },
   "order": [
     "slideshow_jwKkjV",
+    "rich_text_yJDKVp",
+    "slideshow_ETBfYy",
     "main",
     "press_CWB96A",
     "image_link_blocks_FmR96g",
