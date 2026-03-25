@@ -404,16 +404,16 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "link_text": "",
-            "link_url": "",
+            "title": "OUR PROFESSIONAL GUARANTEE",
+            "content": "<p>If our shoes don’t completely transform your work experience, return them within 30 days.<br/><br/><strong>Full refund, no questions asked. Because your comfort at work should never be negotiable.</strong></p>",
+            "link_text": "TRY NOW",
+            "link_url": "shopify://products/secure-shoes",
             "background": "#000000",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
+            "button_background": "#ffffff",
+            "button_text_color": "#1a1a1a"
           }
         }
       },
