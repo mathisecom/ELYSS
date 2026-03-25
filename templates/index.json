@@ -244,6 +244,42 @@
         "heading_gradient": ""
       }
     },
+    "media_with_text_g8MRid": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_FQ3DHN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Titre_20_aa6c06e7-d40c-4dff-ab32-56acc27fbe91.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_FQ3DHN"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
     "testimonials_Vqd7QB": {
       "type": "testimonials",
       "blocks": {
@@ -421,6 +457,7 @@
     "featured_collection_DYeVic",
     "scrolling_logo_cloud_JiXHVA",
     "collection_list_TVn8Kf",
+    "media_with_text_g8MRid",
     "testimonials_Vqd7QB",
     "faq_7adUCb"
   ]
