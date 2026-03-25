@@ -315,6 +315,22 @@
         "text_color": ""
       }
     },
+    "scrolling_text_wK7CVy": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "SPRING SALE SPECIAL OFFER",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 8,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#ffd706",
+        "text_gradient": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -1640,6 +1656,7 @@
     "multi_column_eUawWP",
     "custom_liquid_iEUb6e",
     "multi_column_Xdb34p",
+    "scrolling_text_wK7CVy",
     "main",
     "press_CWB96A",
     "scrolling_logo_cloud_i9MXap",
