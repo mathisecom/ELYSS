@@ -145,17 +145,10 @@
             "heading_tag": "h3"
           }
         },
-        "price": {
-          "type": "price",
-          "disabled": true,
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "liquid_K8gL96": {
           "type": "liquid",
           "settings": {
-            "liquid": "<span class=\"badge-lighter\">45% Lighter Than Traditional Safety Boots</span>\n\n<style>\n\n.badge-lighter {\n  display: inline-block;\n  background: #FFD704;\n  color: #000;\n  font-weight: bold;\n  padding: 5px 15px;\n  border-radius: 15px;\n  font-size: 12px;\nmargin-bottom:15px;\n}\n</style>"
+            "liquid": "<span class=\"badge-lighter\">45% Lighter Than Traditional Safety Boots</span>\n\n<style>\n\n.badge-lighter {\n  display: inline-block;\n  background: #FFD704;\n  color: #000;\n  font-weight: bold;\n  padding: 5px 15px;\n  border-radius: 15px;\n  font-size: 12px;\nmargin-bottom:0px;\n}\n</style>"
           }
         },
         "liquid_iBcVDw": {
@@ -227,6 +220,7 @@
         },
         "collapsible_text_69mEDW": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
@@ -237,22 +231,12 @@
         },
         "collapsible_text_6TeCJR": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
             "title": "30-Day Guarantee",
             "content": "<p><strong>You are not satisfied? </strong></p><p>Don't worry. Just let us know within 30 days and we will refund your money stress-free.<br/><br/>If there is anything else we can do for you or you have any questions, please visit our FAQ. Do not hesitate to contact us. Feel free to use our live chat or contact form.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_QrUD8c": {
-          "type": "collapsible_text",
-          "disabled": true,
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Use and safety",
-            "content": "<p>- Minimum temperature: 25°C<br/>- Maximum temperature: 120°C<br/>- ION technology: YES<br/>- Suitable hair types: All hair types<br/>- Heating time: 5 seconds</p>",
             "page": ""
           }
         }
@@ -261,7 +245,6 @@
         "liquid_7xXm48",
         "liquid_Rqct6c",
         "title",
-        "price",
         "liquid_K8gL96",
         "liquid_iBcVDw",
         "liquid_dNVk6P",
@@ -273,8 +256,7 @@
         "liquid_RpeD4z",
         "liquid_kGU8qM",
         "collapsible_text_69mEDW",
-        "collapsible_text_6TeCJR",
-        "collapsible_text_QrUD8c"
+        "collapsible_text_6TeCJR"
       ],
       "settings": {
         "full_width": true,
