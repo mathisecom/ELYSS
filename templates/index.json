@@ -325,8 +325,8 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            "title": "ALL-DAY COMFORT",
+            "content": "<p>Premium gel insoles with wider steel toe design for extra toe space and freedom of movement.</p>"
           }
         },
         "item_V9B9jc": {
@@ -339,8 +339,8 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            "title": "COMPLETE PROTECTION",
+            "content": "<p>Steel toe caps, ankle protection and Kevlar anti-puncture soles for comprehensive foot safety</p>"
           }
         },
         "item_dRGMgF": {
@@ -353,8 +353,8 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            "title": "DIAL LACING SYSTEM",
+            "content": "<p>Quick-adjust technology for perfect fit without tying laces or bending down</p>"
           }
         },
         "item_CLHAQA": {
@@ -367,8 +367,8 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            "title": "STYLISH DESIGN",
+            "content": "<p>Modern athletic look that transitions seamlessly from worksite to everyday wear</p>"
           }
         }
       },
@@ -383,9 +383,9 @@
         "full_width": true,
         "stack_on_mobile": false,
         "title": "",
-        "heading_tag": "h5",
+        "heading_tag": "h6",
         "text_alignment": "center",
-        "icon_spacing": "medium",
+        "icon_spacing": "small",
         "background": "",
         "background_gradient": "",
         "text_color": ""
