@@ -1039,15 +1039,14 @@
         "image_66T7wD": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Titre_17.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
-            "subheading": "THE #1 HAIR STYLING TOOL",
-            "title": "Professional Styling, 5× More Affordable",
-            "content": "<p><strong>Why pay a fortune for salon-quality results? </strong></p><p>The HairStyling Brush delivers the same sleek, shiny, and voluminous styles as high-end brands like Dyson—at a fraction of the cost. Enjoy professional-grade performance without breaking the bank and make every day a great hair day.</p>",
+            "subheading": "",
+            "title": "PERFECT FIT IN SECONDS",
+            "content": "<p>Our patented rotary system gives you a professional fit in just 2 seconds flat, surgical precision, unshakeable support, and fully personalized comfort.</p><p>Designed for men who don’t have time to waste on poorly engineered details. One simple move, and you’re ready to own your day.</p>",
             "link_text": "BUY NOW",
             "link_url": "#shopify-section-template--17702241829034__main",
             "background": "#f9f9f9",
@@ -1152,23 +1151,23 @@
         "image_wa6y66": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Ontwerp-zonder-titel-18.webp",
+            "image": "shopify://shop_images/Titre_20_aa6c06e7-d40c-4dff-ab32-56acc27fbe91.jpg",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 80,
             "subheading": "",
-            "title": "Prevent Heat Damage",
-            "content": "<p>Regular use of heat on your hair dries it out and makes it more fragile, causing it to wear out or break faster. But fortunately, with ELYSS, you don't have to worry about that. </p><p>Thanks to advanced ion technology and the innovative coanda effect, hair damage is minimized.</p><p><strong>Give your hair the loving care it deserves.</strong></p>",
+            "title": "OUR PROFESSIONAL GUARANTEE",
+            "content": "<p>If our shoes don’t completely transform your work experience, return them within 30 days.<br/><br/><strong>Full refund, no questions asked. Because your comfort at work should never be negotiable.</strong></p>",
             "link_text": "BUY NOW",
             "link_url": "#shopify-section-template--17702241829034__main",
             "background": "#000000",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
+            "button_background": "#ffffff",
+            "button_text_color": "#1a1a1a"
           }
         }
       },
