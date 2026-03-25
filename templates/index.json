@@ -51,6 +51,58 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "rich_text_ndeixC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JnTDL4": {
+          "type": "heading",
+          "settings": {
+            "text": "BEST-SELLERS",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_JnTDL4"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_collection_DYeVic": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "best-sellers",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "testimonials_Vqd7QB": {
       "type": "testimonials",
       "blocks": {
@@ -185,6 +237,8 @@
   },
   "order": [
     "slideshow",
+    "rich_text_ndeixC",
+    "featured_collection_DYeVic",
     "testimonials_Vqd7QB",
     "faq_7adUCb"
   ]
