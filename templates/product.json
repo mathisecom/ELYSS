@@ -130,7 +130,82 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<p style=\"text-align: center; font-size: 1.0rem; font-weight: bold; letter-spacing: 0px;\">\n  OVER <span style=\"color: #FFD704;\">15,000</span> SATISFIED PROFESSIONALS\n</p>",
+        "liquid": "<p style=\"text-align: center; font-size: 1.5rem; font-weight: bold; letter-spacing: 0px;\">\n  TESTED IN <span style=\"color: #FFD704;\"><strong>REAL-WORLD CONDITIONS!</strong></span>\n</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_eUawWP": {
+      "type": "multi-column",
+      "blocks": {
+        "item_FnHQBQ": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/999e136b0d814eb48e52ba566dda1951.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_R6NNc6": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/f3825e2004314a349a1b264ae36667a6.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AjNXmh": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/344087bfb0af4818aa2a968d58adb64d.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_FnHQBQ",
+        "item_R6NNc6",
+        "item_AjNXmh"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_iEUb6e": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<p style=\"text-align: center; font-size: 1.5rem; font-weight: bold; letter-spacing: 0px;\">\n  OVER <span style=\"color: #FFD704;\">15,000</span> SATISFIED PROFESSIONALS\n</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -1111,83 +1186,6 @@
         "spacing": "none"
       }
     },
-    "multi_column_eUawWP": {
-      "type": "multi-column",
-      "blocks": {
-        "item_FnHQBQ": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/2bee0938-0c8d-4536-912e-82ac75345ed7_640.mp4",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_R6NNc6": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/ca2f1e25169c43c0a0701fea357ff918.HD-1080p-7.2Mbps-42000151.mp4",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_AjNXmh": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/91f86572491e46b89bf9dd47aca97c7f.HD-1080p-7.2Mbps-55054234.mp4",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_cgrjDX": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/e275c890412c40f1adbfecfc3ba7a973.HD-1080p-7.2Mbps-55054231.mp4",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_FnHQBQ",
-        "item_R6NNc6",
-        "item_AjNXmh",
-        "item_cgrjDX"
-      ],
-      "disabled": true,
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "small",
-        "text_alignment": "center",
-        "subheading": "THEY TESTED IT",
-        "title": "Approved it, and Adopted it.",
-        "content": "",
-        "background": "#fffdf4",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "scrolling_text_THXeTh": {
       "type": "scrolling-text",
       "disabled": true,
@@ -1203,33 +1201,6 @@
         "background_gradient": "",
         "text_color": "#ffffff",
         "text_gradient": ""
-      }
-    },
-    "rich_text_eQCkUq": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_QztVqV": {
-          "type": "heading",
-          "settings": {
-            "text": "3,000+ Satisfied Customers",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_QztVqV"
-      ],
-      "disabled": true,
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "image_link_blocks_KDTyfW": {
@@ -1470,47 +1441,6 @@
         "testimonial_card_text_color": ""
       }
     },
-    "images_with_text_scrolling_nymfTr": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_zGK4Pr": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "item_LEjt8j": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_zGK4Pr",
-        "item_LEjt8j"
-      ],
-      "disabled": true,
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "faq_QwdHLP": {
       "type": "faq",
       "blocks": {
@@ -1655,6 +1585,8 @@
     "rich_text_yJDKVp",
     "slideshow_ETBfYy",
     "custom_liquid_eaGTKY",
+    "multi_column_eUawWP",
+    "custom_liquid_iEUb6e",
     "multi_column_Xdb34p",
     "main",
     "press_CWB96A",
@@ -1668,12 +1600,9 @@
     "multi_column_EctGX3",
     "media_with_text_4GDQwc",
     "media_with_text_z4Dcbt",
-    "multi_column_eUawWP",
     "scrolling_text_THXeTh",
-    "rich_text_eQCkUq",
     "image_link_blocks_KDTyfW",
     "testimonials_yP4feD",
-    "images_with_text_scrolling_nymfTr",
     "faq_QwdHLP",
     "177444870932ad3bd5"
   ]
