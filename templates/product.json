@@ -130,7 +130,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/BANNER_MOBILE_32.png",
-            "column_size": "4",
+            "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -143,7 +143,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/BANNER_MOBILE_35.png",
-            "column_size": "4",
+            "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -164,12 +164,54 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_pgfpAN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_31.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_tk6iwp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_33.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_73miK9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_-_2026-03-25T154508.282.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_RXrypH",
         "item_T7JVNM",
-        "item_WyCKx7"
+        "item_WyCKx7",
+        "item_pgfpAN",
+        "item_tk6iwp",
+        "item_73miK9"
       ],
       "name": "Multi-column",
       "settings": {
