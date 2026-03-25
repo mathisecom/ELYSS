@@ -61,7 +61,7 @@
             "style": "fill",
             "size": "lg",
             "text": "CHECK AVAILABILITY",
-            "url": "",
+            "url": "#shopify-section-template--17702241829034__main",
             "background": "#1a1a1a",
             "text_color": ""
           }
@@ -677,9 +677,9 @@
         "card_width_desktop": 150,
         "card_width_mobile": 120,
         "heading_color": "#121212",
-        "layout_bg_color": "#FFFFFF",
+        "layout_bg_color": "#ffffff",
         "layout_border_color": "#121212",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "border_color": "#121212",
         "margin_top": 0,
         "margin_bottom": 0,
