@@ -15,7 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_-_2026-03-25T180307.552.jpg",
+            "image": "shopify://shop_images/Design_sans_titre_-_2026-03-25T182059.106.jpg",
             "mobile_image": "shopify://shop_images/Spring_Sale_f9d04294-466a-4feb-a77e-8aa62c44a752.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
@@ -234,7 +234,7 @@
         "scrolling_gap": 70,
         "scrolling_gap_mobile": 30,
         "card_width_desktop": 130,
-        "card_width_mobile": 100,
+        "card_width_mobile": 120,
         "heading_color": "#121212",
         "layout_bg_color": "#ffffff",
         "layout_border_color": "#121212",
