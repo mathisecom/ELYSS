@@ -312,6 +312,68 @@
         "heading_gradient": ""
       }
     },
+    "multi_column_TRzgpR": {
+      "type": "multi-column",
+      "blocks": {
+        "item_xyCyMi": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/999e136b0d814eb48e52ba566dda1951.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jBznge": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/f3825e2004314a349a1b264ae36667a6.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_LxHrDi": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/344087bfb0af4818aa2a968d58adb64d.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_xyCyMi",
+        "item_jBznge",
+        "item_LxHrDi"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "text_with_icons_xQiRVq": {
       "type": "text-with-icons",
       "blocks": {
@@ -605,6 +667,7 @@
     "featured_collection_DYeVic",
     "scrolling_logo_cloud_jYLYXa",
     "collection_list_TVn8Kf",
+    "multi_column_TRzgpR",
     "text_with_icons_xQiRVq",
     "media_with_text_g8MRid",
     "testimonials_Vqd7QB",
