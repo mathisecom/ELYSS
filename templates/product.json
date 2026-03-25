@@ -861,19 +861,18 @@
         "image_kHDajH": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Titre_14.jpg",
+            "image": "shopify://shop_images/1_480x480_1e0e1a1e-ca43-4a81-8687-ca523ef40922.webp",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
-            "custom_icon": "shopify://shop_images/Titre_2.png",
             "icon_width": 80,
             "subheading": "",
-            "title": "Salon-Quality Hair, Every Day",
-            "content": "<p><strong>Transform your daily routine</strong> with the HairStyling Brush – your all-in-one tool for sleek, shiny styles or voluminous curls. </p><p>With five innovative attachments, you can effortlessly create <strong>professional results</strong> from the comfort of home. Perfect for <strong>every hair type and every style.</strong></p>",
+            "title": "THE LOOK OF A SNEAKER – THE PROTECTION OF A SAFETY SHOE",
+            "content": "<p>With <strong>Solydia</strong>, you no longer have to choose between comfort, style, and safety.</p><p>Its modern sneaker-inspired design makes it the perfect companion for long days, both at work and after hours.</p><p>Instead of heavy, rigid safety shoes, you get a stylish pair you can comfortably wear even outside the job site.</p><p><strong>The result:</strong> you feel light, comfortable, and confident in your shoes all day long.</p>",
             "link_text": "BUY NOW",
             "link_url": "#shopify-section-template--17702241829034__main",
-            "background": "#fffdf4",
+            "background": "#ffffff",
             "background_gradient": "",
             "text_color": "#000000",
             "text_gradient": "",
@@ -885,121 +884,11 @@
       "block_order": [
         "image_kHDajH"
       ],
-      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": true,
         "alternate_media_position": false,
         "spacing": "none"
-      }
-    },
-    "multi_column_4jj37M": {
-      "type": "multi-column",
-      "blocks": {
-        "item_mQXFmc": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Titre_13.jpg",
-            "column_size": "4",
-            "title": "Airflow Curler",
-            "heading_tag": "h4",
-            "content": "<p>Create soft, bouncy curls in minutes.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_4FCa3G": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Titre_10_d6ab8be4-c366-4587-b3ba-9753301bf663.jpg",
-            "column_size": "4",
-            "title": "Hair Dryer",
-            "heading_tag": "h4",
-            "content": "<p>Fast drying while keeping natural shine.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_daCqAC": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Titre_8_f9be7e56-47bf-44a3-a675-f5c2bbbfd0f4.jpg",
-            "column_size": "4",
-            "title": "Volume Brush",
-            "heading_tag": "h4",
-            "content": "<p>Adds lift and fullness from the roots.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_xHnG3U": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Titre_9.jpg",
-            "column_size": "4",
-            "title": "Shapes",
-            "heading_tag": "h4",
-            "content": "<p>Smooths or waves for versatile styles.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_cfN3aw": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/aeris-multi-styler-oval-volumising-attachment_1.jpg",
-            "column_size": "4",
-            "title": "Blowout Brush",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_mQXFmc",
-        "item_4FCa3G",
-        "item_daCqAC",
-        "item_xHnG3U",
-        "item_cfN3aw"
-      ],
-      "disabled": true,
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "small",
-        "text_alignment": "center",
-        "subheading": "THE #1 HAIR STYLING TOOL",
-        "title": "Salon Quality Hair Styling",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "scrolling_text_9q9xWe": {
-      "type": "scrolling-text",
-      "disabled": true,
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "DRY. SMOOTH. CURL.",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "#000000",
-        "background_gradient": "",
-        "text_color": "#ffffff",
-        "text_gradient": ""
       }
     },
     "text_with_icons_FpVP7Q": {
@@ -1009,9 +898,9 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/Titre_5.png",
-            "mobile_icon_width": 40,
-            "icon_width": 40,
+            "custom_icon": "shopify://shop_images/1.webp",
+            "mobile_icon_width": 52,
+            "icon_width": 52,
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
@@ -1023,9 +912,9 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/Titre_6.png",
-            "mobile_icon_width": 40,
-            "icon_width": 40,
+            "custom_icon": "shopify://shop_images/3.webp",
+            "mobile_icon_width": 52,
+            "icon_width": 52,
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
@@ -1037,9 +926,9 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/Titre_4.png",
-            "mobile_icon_width": 40,
-            "icon_width": 40,
+            "custom_icon": "shopify://shop_images/4.webp",
+            "mobile_icon_width": 52,
+            "icon_width": 52,
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
@@ -1051,9 +940,9 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/Titre_3.png",
-            "mobile_icon_width": 40,
-            "icon_width": 40,
+            "custom_icon": "shopify://shop_images/2.webp",
+            "mobile_icon_width": 52,
+            "icon_width": 52,
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
@@ -1068,7 +957,6 @@
         "item_XFt6pF",
         "item_A9biVb"
       ],
-      "disabled": true,
       "name": "Text with icons",
       "settings": {
         "full_width": true,
@@ -1077,7 +965,7 @@
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "medium",
-        "background": "#fffdf4",
+        "background": "#f9f9f9",
         "background_gradient": "",
         "text_color": ""
       }
@@ -1174,7 +1062,6 @@
       "block_order": [
         "image_66T7wD"
       ],
-      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": true,
@@ -1288,7 +1175,6 @@
       "block_order": [
         "image_wa6y66"
       ],
-      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": true,
@@ -1741,8 +1627,6 @@
     "scrolling_logo_cloud_i9MXap",
     "image_link_blocks_FmR96g",
     "media_with_text_dTUYxg",
-    "multi_column_4jj37M",
-    "scrolling_text_9q9xWe",
     "text_with_icons_FpVP7Q",
     "multi_column_gtgKtF",
     "media_with_text_rMQPjm",
