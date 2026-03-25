@@ -407,7 +407,7 @@
         "liquid_RpeD4z": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"display:flex; justify-content:center; align-items:center; gap:3rem;\">\n\n  <div style=\"display:flex; align-items:center; gap:0.6rem; font-size:9px; font-weight:500; letter-spacing:0.05em; color:#121212;\">\n    <img src=\"//norastyler.com/cdn/shop/files/svgexport-12.svg?v=1738593691\" \n         alt=\"check icon\" width=\"16\" height=\"16\" loading=\"lazy\">\n    <span>SHIPS NEXT DAY</span>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:0.6rem; font-size:9px; font-weight:500; letter-spacing:0.05em; color:#121212;\">\n    <img src=\"//norastyler.com/cdn/shop/files/svgexport-12.svg?v=1738593691\" \n         alt=\"check icon\" width=\"16\" height=\"16\" loading=\"lazy\">\n    <span>30-DAY GUARANTEE</span>\n  </div>\n\n</div>"
+            "liquid": "<div style=\"display:flex; justify-content:center; align-items:center; gap:3rem;\">\n\n  <div style=\"display:flex; align-items:center; gap:0.6rem; font-size:9px; font-weight:500; letter-spacing:0.05em; color:#121212;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0673/2562/4490/files/delivery-svgrepo-com.svg?v=1774451949\" \n         alt=\"check icon\" width=\"16\" height=\"16\" loading=\"lazy\">\n    <span>SHIPS NEXT DAY</span>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:0.6rem; font-size:9px; font-weight:500; letter-spacing:0.05em; color:#121212;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0673/2562/4490/files/return-svgrepo-com.svg?v=1774451951\" \n         alt=\"check icon\" width=\"16\" height=\"16\" loading=\"lazy\">\n    <span>30-DAY GUARANTEE</span>\n  </div>\n\n</div>"
           }
         },
         "liquid_kGU8qM": {
