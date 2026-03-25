@@ -130,7 +130,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<p style=\"text-align: center; font-size: 1.5rem; font-weight: bold; letter-spacing: 0px;\">\n  TESTED IN <span style=\"color: #FFD704;\"><strong>REAL-WORLD CONDITIONS!</strong></span>\n</p>",
+        "liquid": "<p style=\"text-align: center; font-size: 1.3rem; font-weight: bold; letter-spacing: 0px;\">\n  TESTED IN <span style=\"color: #FFD704;\"><strong>REAL-WORLD CONDITIONS!</strong></span>\n</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -205,7 +205,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<p style=\"text-align: center; font-size: 1.5rem; font-weight: bold; letter-spacing: 0px;\">\n  OVER <span style=\"color: #FFD704;\">15,000</span> SATISFIED PROFESSIONALS\n</p>",
+        "liquid": "<p style=\"text-align: center; font-size: 1.3rem; font-weight: bold; letter-spacing: 0px;\">\n  OVER <span style=\"color: #FFD704;\">15,000</span> SATISFIED PROFESSIONALS\n</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -980,7 +980,7 @@
         "full_width": true,
         "stack_on_mobile": false,
         "title": "",
-        "heading_tag": "h5",
+        "heading_tag": "h6",
         "text_alignment": "center",
         "icon_spacing": "medium",
         "background": "#f9f9f9",
