@@ -876,7 +876,7 @@
             "background_gradient": "",
             "text_color": "#000000",
             "text_gradient": "",
-            "button_background": "",
+            "button_background": "#1a1a1a",
             "button_text_color": ""
           }
         }
@@ -1039,6 +1039,7 @@
         "image_66T7wD": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/CREA1080X1080_40.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -1053,7 +1054,7 @@
             "background_gradient": "",
             "text_color": "#000000",
             "text_gradient": "",
-            "button_background": "",
+            "button_background": "#1a1a1a",
             "button_text_color": ""
           }
         }
