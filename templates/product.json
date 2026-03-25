@@ -123,6 +123,19 @@
         "background_gradient": ""
       }
     },
+    "custom_liquid_eaGTKY": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": true,
+        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_Xdb34p": {
       "type": "multi-column",
       "blocks": {
@@ -1544,7 +1557,6 @@
         "item_9ytGBR",
         "item_C37QRQ"
       ],
-      "disabled": true,
       "name": "FAQ",
       "settings": {
         "full_width": true,
@@ -1567,12 +1579,42 @@
         "accordion_background": "#f9f9f9",
         "accordion_text_color": ""
       }
+    },
+    "177444870932ad3bd5": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_znDye6": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "reviews_to_display": "product_reviews_only",
+            "default_tab": "automatic",
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 14,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_znDye6"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "slideshow_jwKkjV",
     "rich_text_yJDKVp",
     "slideshow_ETBfYy",
+    "custom_liquid_eaGTKY",
     "multi_column_Xdb34p",
     "main",
     "press_CWB96A",
@@ -1592,6 +1634,7 @@
     "image_link_blocks_KDTyfW",
     "testimonials_yP4feD",
     "images_with_text_scrolling_nymfTr",
-    "faq_QwdHLP"
+    "faq_QwdHLP",
+    "177444870932ad3bd5"
   ]
 }
