@@ -51,6 +51,74 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "scrolling_logo_cloud_JiXHVA": {
+      "type": "scrolling-logo-cloud",
+      "blocks": {
+        "image_PyKhhz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/celuieaaz.avif",
+            "url": ""
+          }
+        },
+        "image_RhbxMQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/gq_logo.webp",
+            "url": ""
+          }
+        },
+        "image_fVtg46": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/forbes2.svg",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_PyKhhz",
+        "image_RhbxMQ",
+        "image_fVtg46"
+      ],
+      "name": "SS - Scrolling logo cloud #5",
+      "settings": {
+        "layout_radius": 30,
+        "layout_border_thickness": 0,
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 18,
+        "heading_size_mobile": 18,
+        "heading_height": 130,
+        "scrolling_velocity": 26,
+        "scrolling_velocity_mobile": 14,
+        "scrolling_direction": "left",
+        "pause_hover": false,
+        "scrolling_gap": 70,
+        "scrolling_gap_mobile": 48,
+        "card_width_desktop": 100,
+        "card_width_mobile": 100,
+        "heading_color": "#121212",
+        "layout_bg_color": "#ffffff",
+        "layout_border_color": "#121212",
+        "background_color": "#ffffff",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 0,
+        "full_width": false,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
     "rich_text_ndeixC": {
       "type": "rich-text",
       "blocks": {
@@ -103,38 +171,38 @@
         "product_card_text_color": ""
       }
     },
-    "scrolling_logo_cloud_JiXHVA": {
+    "scrolling_logo_cloud_jYLYXa": {
       "type": "scrolling-logo-cloud",
       "blocks": {
-        "image_PyKhhz": {
+        "image_gTGRra": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BANNER_MOBILE_37.png",
             "url": ""
           }
         },
-        "image_Db3paB": {
+        "image_gQe8M6": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BANNER_MOBILE_38.png",
             "url": ""
           }
         },
-        "image_y4dkKD": {
+        "image_8PNjVM": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BANNER_MOBILE_31.png",
             "url": ""
           }
         },
-        "image_qVwPaT": {
+        "image_kFrfAU": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BANNER_MOBILE_32.png",
             "url": ""
           }
         },
-        "image_nWNQRC": {
+        "image_LPcBxj": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BANNER_MOBILE_33.png",
@@ -143,11 +211,11 @@
         }
       },
       "block_order": [
-        "image_PyKhhz",
-        "image_Db3paB",
-        "image_y4dkKD",
-        "image_qVwPaT",
-        "image_nWNQRC"
+        "image_gTGRra",
+        "image_gQe8M6",
+        "image_8PNjVM",
+        "image_kFrfAU",
+        "image_LPcBxj"
       ],
       "name": "SS - Scrolling logo cloud #5",
       "settings": {
@@ -532,9 +600,10 @@
   },
   "order": [
     "slideshow",
+    "scrolling_logo_cloud_JiXHVA",
     "rich_text_ndeixC",
     "featured_collection_DYeVic",
-    "scrolling_logo_cloud_JiXHVA",
+    "scrolling_logo_cloud_jYLYXa",
     "collection_list_TVn8Kf",
     "text_with_icons_xQiRVq",
     "media_with_text_g8MRid",
