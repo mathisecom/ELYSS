@@ -427,7 +427,7 @@
             "custom_icon": "shopify://shop_images/crop-svgrepo-com.svg",
             "icon_width": 20,
             "title": "Size Guide",
-            "content": "<p>Express USA Shipping. Order today, shipped the next day. Delivered in 5-7 business days with Track & Trace.</p>",
+            "content": "<p><strong>Our shoes fit true to size according, simply choose your usual size when ordering.</strong></p><p>If you're between two sizes, we recommend selecting the larger one for added comfort.</p><p>For more information, you can take a look at our size guide:</p>",
             "page": ""
           }
         },
@@ -438,7 +438,7 @@
             "custom_icon": "shopify://shop_images/falling-svgrepo-com.svg",
             "icon_width": 20,
             "title": "Slip-Resistant",
-            "content": "<p><strong>You are not satisfied? </strong></p><p>Don't worry. Just let us know within 30 days and we will refund your money stress-free.<br/><br/>If there is anything else we can do for you or you have any questions, please visit our FAQ. Do not hesitate to contact us. Feel free to use our live chat or contact form.</p>",
+            "content": "<p>SOLYDIA shoes are SRC-certified, the strictest anti-slip standard in Europe.</p><p>This means they’ve been rigorously tested and approved on:</p><ul><li>Wet tiled floors (SR rating)<br/></li><li>Steel floors with glycerol (SC rating)<br/></li></ul><p>SRC combines both tests — guaranteeing maximum grip on all surfaces, whether wet, greasy, or oily.</p><p>If your job requires high-performance slip-resistant safety footwear, the S3 standard is exactly what you need.</p>",
             "page": ""
           }
         },
@@ -449,7 +449,7 @@
             "custom_icon": "shopify://shop_images/water-resources-svgrepo-com.svg",
             "icon_width": 20,
             "title": "Waterproof",
-            "content": "<p><strong>You are not satisfied? </strong></p><p>Don't worry. Just let us know within 30 days and we will refund your money stress-free.<br/><br/>If there is anything else we can do for you or you have any questions, please visit our FAQ. Do not hesitate to contact us. Feel free to use our live chat or contact form.</p>",
+            "content": "<p>The SOLYDIA are water-resistant and WR-certified (Water Resistant).</p><p>They provide effective protection against:</p><ul><li>Rain</li><li>Water splashes</li><li>Spills</li><li>Wet surfaces<br/></li></ul><p>Perfect for any profession exposed to moisture.</p>",
             "page": ""
           }
         },
@@ -461,6 +461,17 @@
             "icon_width": 20,
             "title": "For which environments?",
             "content": "<p>The SOLYDIA are S3-certified, making them suitable for <strong>all demanding work environments</strong>:</p><p>✓ Hard floors (concrete, tiles, asphalt)<br/><br/>✓ Long periods of standing (6–12+ hours)<br/><br/>✓ Intensive walking (10,000+ steps/day)<br/><br/>✓ Handling heavy loads<br/><br/>✓ Wet or greasy surfaces (SRC-certified)<br/><br/>✓ Risk of falling objects<br/><br/>✓ Risk of punctures</p><p>Whether indoors or outdoors, they meet <strong>all the requirements of the S3 certification</strong>.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_Jy3R8y": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "custom_icon": "shopify://shop_images/shield-alt-1-svgrepo-com.svg",
+            "icon_width": 20,
+            "title": "European Standard S3",
+            "content": "<p>The <strong>SOLYDIA </strong> are certified <br/><strong>CE marked</strong> <strong>AND</strong> <strong>EN ISO 20345 S3</strong>, guaranteeing:</p><p>✓ <strong>200 J protective toe cap</strong> (resists heavy falling objects)<br/><br/>✓ <strong>Puncture-resistant sole</strong> (protection against nails and sharp debris)<br/><br/>✓ <strong>Slip-resistant SRC sole</strong> (grip on wet and oily surfaces)<br/><br/>✓ <strong>Heel energy absorption</strong> (reduces impact from repeated shocks)<br/><br/>✓ <strong>Hydrocarbon-resistant sole</strong> (resistant to oils, fuel, and chemicals)<br/><br/>✓ <strong>Water-repellent upper (WR)</strong> (resists water splashes)</p><p>This certification covers <strong>95% of manual and technical professions</strong>. If your job requires safety footwear, <strong>S3 shoes meet your needs</strong>.</p>",
             "page": ""
           }
         },
@@ -479,7 +490,7 @@
           "type": "collapsible_text",
           "settings": {
             "icon": "none",
-            "custom_icon": "shopify://shop_images/shipping-truck-svgrepo-com_9e23ed2d-d31e-4f38-b438-99411fef404f.svg",
+            "custom_icon": "shopify://shop_images/return-svgrepo-com.svg",
             "icon_width": 20,
             "title": "Warranty & Returns",
             "content": "<p>30-day trial in your work environment. If our sneakers don’t meet your expectations, we offer a full refund.</p><p><strong>12-month manufacturer’s warranty</strong> covering all material and design defects.</p>",
@@ -507,6 +518,7 @@
         "collapsible_text_6TeCJR",
         "collapsible_text_4CnDaN",
         "collapsible_text_pw7Eh8",
+        "collapsible_text_Jy3R8y",
         "collapsible_text_x8CTM8",
         "collapsible_text_KiY4TW"
       ],
