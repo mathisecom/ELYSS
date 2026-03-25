@@ -244,6 +244,85 @@
         "heading_gradient": ""
       }
     },
+    "text_with_icons_xQiRVq": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_9XzzxU": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/1.webp",
+            "mobile_icon_width": 52,
+            "icon_width": 52,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_V9B9jc": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/3.webp",
+            "mobile_icon_width": 52,
+            "icon_width": 52,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_dRGMgF": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/4.webp",
+            "mobile_icon_width": 52,
+            "icon_width": 52,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_CLHAQA": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/2.webp",
+            "mobile_icon_width": 52,
+            "icon_width": 52,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_9XzzxU",
+        "item_V9B9jc",
+        "item_dRGMgF",
+        "item_CLHAQA"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_with_text_g8MRid": {
       "type": "media-with-text",
       "blocks": {
@@ -457,6 +536,7 @@
     "featured_collection_DYeVic",
     "scrolling_logo_cloud_JiXHVA",
     "collection_list_TVn8Kf",
+    "text_with_icons_xQiRVq",
     "media_with_text_g8MRid",
     "testimonials_Vqd7QB",
     "faq_7adUCb"
