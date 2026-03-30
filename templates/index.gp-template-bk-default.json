@@ -1,0 +1,676 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2026-03-25T182059.106.jpg",
+            "mobile_image": "shopify://shop_images/Spring_Sale_f9d04294-466a-4feb-a77e-8aa62c44a752.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "shopify://products/secure-shoes",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "numbers",
+        "transition_type": "fade_with_text",
+        "autoplay": true,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
+    "scrolling_logo_cloud_JiXHVA": {
+      "type": "scrolling-logo-cloud",
+      "blocks": {
+        "image_PyKhhz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/celuieaaz.avif",
+            "url": ""
+          }
+        },
+        "image_RhbxMQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/gq_logo.webp",
+            "url": ""
+          }
+        },
+        "image_fVtg46": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/forbes2.svg",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_PyKhhz",
+        "image_RhbxMQ",
+        "image_fVtg46"
+      ],
+      "name": "SS - Scrolling logo cloud #5",
+      "settings": {
+        "layout_radius": 30,
+        "layout_border_thickness": 0,
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 18,
+        "heading_size_mobile": 18,
+        "heading_height": 130,
+        "scrolling_velocity": 26,
+        "scrolling_velocity_mobile": 14,
+        "scrolling_direction": "left",
+        "pause_hover": false,
+        "scrolling_gap": 70,
+        "scrolling_gap_mobile": 48,
+        "card_width_desktop": 100,
+        "card_width_mobile": 100,
+        "heading_color": "#121212",
+        "layout_bg_color": "#ffffff",
+        "layout_border_color": "#121212",
+        "background_color": "#ffffff",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 0,
+        "full_width": false,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "rich_text_ndeixC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JnTDL4": {
+          "type": "heading",
+          "settings": {
+            "text": "BEST SELLERS",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_JnTDL4"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_collection_DYeVic": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "best-sellers",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "scrolling_logo_cloud_jYLYXa": {
+      "type": "scrolling-logo-cloud",
+      "blocks": {
+        "image_gTGRra": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_37.png",
+            "url": ""
+          }
+        },
+        "image_gQe8M6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_38.png",
+            "url": ""
+          }
+        },
+        "image_8PNjVM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_31.png",
+            "url": ""
+          }
+        },
+        "image_kFrfAU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_32.png",
+            "url": ""
+          }
+        },
+        "image_LPcBxj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_33.png",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_gTGRra",
+        "image_gQe8M6",
+        "image_8PNjVM",
+        "image_kFrfAU",
+        "image_LPcBxj"
+      ],
+      "name": "SS - Scrolling logo cloud #5",
+      "settings": {
+        "layout_radius": 30,
+        "layout_border_thickness": 0,
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 18,
+        "heading_size_mobile": 18,
+        "heading_height": 130,
+        "scrolling_velocity": 26,
+        "scrolling_velocity_mobile": 22,
+        "scrolling_direction": "left",
+        "pause_hover": false,
+        "scrolling_gap": 70,
+        "scrolling_gap_mobile": 30,
+        "card_width_desktop": 130,
+        "card_width_mobile": 120,
+        "heading_color": "#121212",
+        "layout_bg_color": "#ffffff",
+        "layout_border_color": "#121212",
+        "background_color": "#ffffff",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 0,
+        "full_width": false,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "collection_list_TVn8Kf": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_REHrm6": {
+          "type": "collection",
+          "settings": {
+            "collection": "shoes",
+            "image": "shopify://shop_images/image-gen_3.png",
+            "subheading": "",
+            "title": "SHOES",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        },
+        "collection_iJ4Qcx": {
+          "type": "collection",
+          "settings": {
+            "collection": "clothing",
+            "image": "shopify://shop_images/76e02bbd-200b-4bb1-a423-b6136c450cb0.webp",
+            "subheading": "",
+            "title": "CLOTHING",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "collection_REHrm6",
+        "collection_iJ4Qcx"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "full_width": true,
+        "stack_collections": true,
+        "collections_per_row_mobile": "1",
+        "collections_per_row": 2,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "multi_column_TRzgpR": {
+      "type": "multi-column",
+      "blocks": {
+        "item_xyCyMi": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/999e136b0d814eb48e52ba566dda1951.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jBznge": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/f3825e2004314a349a1b264ae36667a6.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_LxHrDi": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/344087bfb0af4818aa2a968d58adb64d.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_xyCyMi",
+        "item_jBznge",
+        "item_LxHrDi"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "text_with_icons_xQiRVq": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_9XzzxU": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/1.webp",
+            "mobile_icon_width": 52,
+            "icon_width": 52,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "ALL-DAY COMFORT",
+            "content": "<p>Premium gel insoles with wider steel toe design for extra toe space and freedom of movement.</p>"
+          }
+        },
+        "item_V9B9jc": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/3.webp",
+            "mobile_icon_width": 52,
+            "icon_width": 52,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "COMPLETE PROTECTION",
+            "content": "<p>Steel toe caps, ankle protection and Kevlar anti-puncture soles for comprehensive foot safety</p>"
+          }
+        },
+        "item_dRGMgF": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/4.webp",
+            "mobile_icon_width": 52,
+            "icon_width": 52,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "DIAL LACING SYSTEM",
+            "content": "<p>Quick-adjust technology for perfect fit without tying laces or bending down</p>"
+          }
+        },
+        "item_CLHAQA": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/2.webp",
+            "mobile_icon_width": 52,
+            "icon_width": 52,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "STYLISH DESIGN",
+            "content": "<p>Modern athletic look that transitions seamlessly from worksite to everyday wear</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_9XzzxU",
+        "item_V9B9jc",
+        "item_dRGMgF",
+        "item_CLHAQA"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h6",
+        "text_alignment": "center",
+        "icon_spacing": "small",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_g8MRid": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_FQ3DHN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Titre_20_aa6c06e7-d40c-4dff-ab32-56acc27fbe91.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "OUR PROFESSIONAL GUARANTEE",
+            "content": "<p>If our shoes don’t completely transform your work experience, return them within 30 days.<br/><br/><strong>Full refund, no questions asked. Because your comfort at work should never be negotiable.</strong></p>",
+            "link_text": "TRY NOW",
+            "link_url": "shopify://products/secure-shoes",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#ffffff",
+            "button_text_color": "#1a1a1a"
+          }
+        }
+      },
+      "block_order": [
+        "image_FQ3DHN"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "testimonials_Vqd7QB": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_3JGyLn": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "July C.",
+            "title": "Absolutely worth it!",
+            "content": "<p>My hair looks like I’ve had a salon blowout every time. Light, powerful, and so versatile— definitely my new favorite tool.</p>"
+          }
+        },
+        "testimonial_9pht3a": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Célia A.",
+            "title": "Super Volumized Hairs",
+            "content": "<p>Perfect for busy mornings. I can dry and style at the same time, and my hair actually looks fuller and smoother. Definitely a must-have if you love experimenting with different looks.</p>"
+          }
+        },
+        "testimonial_RiVUGR": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Mary U.",
+            "title": "Game changer!",
+            "content": "<p>One tool does it all—drying, straightening, and curling. My morning routine is so much faster now, and my hair feels soft and healthy.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_3JGyLn",
+        "testimonial_9pht3a",
+        "testimonial_RiVUGR"
+      ],
+      "disabled": true,
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "#f9f9f9",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "faq_7adUCb": {
+      "type": "faq",
+      "blocks": {
+        "item_qY9WDx": {
+          "type": "item",
+          "settings": {
+            "title": "Are they slip-resistant?",
+            "content": "<p>The SOLYDIA MaxOne are <strong>SRC certified</strong>, the strictest slip-resistance standard in Europe.</p><p>This means they have been tested and approved on:</p><ul><li><strong>Wet tiled floors</strong> (SR)<br/></li><li><strong>Steel floors with glycerol</strong> (SC)<br/></li></ul><p>The <strong>SRC certification combines both tests</strong>, guaranteeing maximum grip on all surfaces — whether wet, greasy, or oily.</p><p>If your job requires slip-resistant footwear, the <strong>S3 standard fully meets those needs</strong>.</p>"
+          }
+        },
+        "item_mwTVFL": {
+          "type": "item",
+          "settings": {
+            "title": "Are they waterproof?",
+            "content": "<p>The SOLYDIA are <strong>water-resistant</strong> and certified <strong>WR (Water Resistant)</strong>.</p><p>They provide effective protection against:</p><ul><li>Rain<br/></li><li>Water splashes<br/></li><li>Spills<br/></li><li>Wet surfaces</li></ul><p>Perfect for all jobs exposed to moisture.</p>"
+          }
+        },
+        "item_i4QnxY": {
+          "type": "item",
+          "settings": {
+            "title": "For which environments are they suitable?",
+            "content": "<p>The <strong>SOLYDIA </strong>are <strong>S3 certified</strong>, making them suitable for <strong>all demanding work environments</strong>:</p><p>✓ Hard floors (concrete, tiles, asphalt)<br/><br/>✓ Long periods of standing (6–12+ hours)<br/><br/>✓ Intensive walking (10,000+ steps/day)<br/><br/>✓ Handling heavy loads<br/><br/>✓ Wet or greasy surfaces (<strong>SRC certified</strong>)<br/><br/>✓ Risk of falling objects<br/><br/>✓ Risk of punctures</p><p>Whether you work indoors or outdoors, they <strong>meet all the requirements of S3 certification</strong>.</p>"
+          }
+        },
+        "item_B3GKD4": {
+          "type": "item",
+          "settings": {
+            "title": "How does the rotary lacing system work?",
+            "content": "<p>The rotary lacing system works with a dial: turn it clockwise to tighten the shoe and counterclockwise to loosen it. </p><p>This technology allows for <strong>precise, millimeter-accurate adjustment in just 2 seconds</strong>, offering much greater speed and accuracy compared to traditional laces.</p>"
+          }
+        },
+        "item_KMGGcp": {
+          "type": "item",
+          "settings": {
+            "title": "What’s the difference compared to my current safety shoes?",
+            "content": "<p>Our sneakers are <strong>45% lighter</strong> than standard safety shoes while maintaining the same <strong>S3 protection</strong>.</p><p>The <strong>high-density Memory Foam insole</strong> eliminates foot pain, and the modern design looks just like real sneakers. You get the <strong>same level of safety</strong> with <strong>revolutionary comfort and style</strong>.</p>"
+          }
+        },
+        "item_acrVmw": {
+          "type": "item",
+          "settings": {
+            "title": "Do SOLYDIA really comply with the S3 standard?",
+            "content": "<p>Our sneakers are <strong>certified according to the European standard EN ISO 20345 S3</strong>, which guarantees a <strong>steel toe cap resistant to 200 Joules of impact</strong>, a <strong>Kevlar anti-puncture sole</strong>, <strong>water resistance</strong>, and <strong>anti-static properties</strong>.</p><p>All tests are <strong>validated by independent certification bodies</strong>.</p>"
+          }
+        },
+        "item_qUkwx3": {
+          "type": "item",
+          "settings": {
+            "title": "Can I wear them all day without pain?",
+            "content": "<p>The <strong>high-density Memory Foam insole</strong> and <strong>lightweight construction</strong> are specially designed for long workdays.</p><p>Our sneakers have been tested during <strong>12-hour consecutive shifts</strong>. If you experience any discomfort, we offer a <strong>full 30-day money-back guarantee</strong>.</p>"
+          }
+        },
+        "item_cYzQ4M": {
+          "type": "item",
+          "settings": {
+            "title": "Does the sneaker-style design hold up on construction sites?",
+            "content": "<p>Although designed with a sneaker look, our shoes use <strong>high-strength industrial materials</strong>: reinforced mesh, sealed stitching, and a professional slip-resistant sole.</p><p>They <strong>resist mud, dust, and splashes</strong> while remaining <strong>easy to clean</strong>.</p>"
+          }
+        },
+        "item_7U4jC7": {
+          "type": "item",
+          "settings": {
+            "title": "How do I choose my size?",
+            "content": "<p>If you are between two sizes, we recommend <strong>choosing the larger size for extra comfort</strong>.</p><p>Check out our <strong>detailed size guide with measurements in centimeters</strong>, available below the product photos.</p>"
+          }
+        },
+        "item_AgGyix": {
+          "type": "item",
+          "settings": {
+            "title": "Warranty & Returns",
+            "content": "<p>Our <strong>12-month warranty</strong> covers all manufacturing and material defects. Normal wear and tear from daily use is not covered.</p><p>If there’s an issue, simply send us a <strong>photo and a description</strong>, and we will provide a <strong>free replacement</strong> if the defect is confirmed.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_qY9WDx",
+        "item_mwTVFL",
+        "item_i4QnxY",
+        "item_B3GKD4",
+        "item_KMGGcp",
+        "item_acrVmw",
+        "item_qUkwx3",
+        "item_cYzQ4M",
+        "item_7U4jC7",
+        "item_AgGyix"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Frequently Asked Questions",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "scrolling_logo_cloud_JiXHVA",
+    "rich_text_ndeixC",
+    "featured_collection_DYeVic",
+    "scrolling_logo_cloud_jYLYXa",
+    "collection_list_TVn8Kf",
+    "multi_column_TRzgpR",
+    "text_with_icons_xQiRVq",
+    "media_with_text_g8MRid",
+    "testimonials_Vqd7QB",
+    "faq_7adUCb"
+  ]
+}
