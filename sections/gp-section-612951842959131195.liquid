@@ -170,6 +170,69 @@
     </gp-row>
   
   
+  
+    <div
+      
+      style="--d:block;--d-tablet:block;--d-mobile:block;--bs:none;--bw:1px 1px 1px 1px;--bc:var(--g-c-line-3, line-3);--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--op:100%;--ta:left;--bgc:transparent;--bgi:url();--bgp:50% 50%;--bgs:cover;--bgr:no-repeat;--bga:scroll"
+      data-keep-class="true"
+      class="gNOGVC2RSp gp-custom-code">
+      <div>
+    <script>
+function getAllUrlParams() {
+    var params = {};
+    var queryString = window.location.search.substring(1);
+    var vars = queryString.split('&');
+    for (var i = 0; i < vars.length; i++) {
+        var pair = vars[i].split('=');
+        if (pair[0]) {
+            params[pair[0]] = decodeURIComponent(pair[1] || '');
+        }
+    }
+    return params;
+}
+
+function buildParamString(params) {
+    var paramArray = [];
+    for (var key in params) {
+        if (params.hasOwnProperty(key) && params[key]) {
+            paramArray.push(key + '=' + encodeURIComponent(params[key]));
+        }
+    }
+    return paramArray.join('&');
+}
+
+function updateLinks() {
+    var allParams = getAllUrlParams();
+    var paramString = buildParamString(allParams);
+    var yourBrandButtons = document.querySelectorAll('a[href*="solydia.com"]');
+    
+    if (yourBrandButtons.length > 0) {
+        yourBrandButtons.forEach(function(button) {
+            var currentHref = button.getAttribute('href');
+            var separator = currentHref.includes('?') ? '&' : '?';
+            button.setAttribute('href', currentHref + separator + paramString);
+            button.removeAttribute('rel');
+        });
+        return true;
+    }
+    return false;
+}
+
+var attempts = 0;
+var maxAttempts = 20;
+var checkInterval = setInterval(function() {
+    attempts++;
+    if (updateLinks() || attempts >= maxAttempts) {
+        clearInterval(checkInterval);
+    }
+}, 100);
+
+window.addEventListener('load', updateLinks);
+document.addEventListener('DOMContentLoaded', updateLinks);
+</script>
+    </div>
+    </div>
+  
     </div>
 
       
@@ -213,7 +276,7 @@
 {% schema %}
   {
     
-    "name": "Section 9",
+    "name": "Section 10",
     "tag": "section",
     "class": "gps-612951842959131195 gps gpsil",
     "settings": [{"type":"paragraph","content":"Section design by GemPages. [Click here to start design](https://admin.shopify.com/store/7tukht-p1/apps/gempages-cro/app/shopify/edit?pageType=GP_STATIC&editorId=612947697678156512&sectionId=612951842959131195)"},{"type":"select","label":"Section Preload","id":"section_preload","options":[{"label":"On","value":"true"},{"label":"Off","value":"false"},{"label":"Off Lazy Script","value":"off_lazy_script"}],"default":"false"},{"type":"text","label":"Checksum","id":"checksum"},{"type":"html","id":"ggOfx0BOCTo_background_desktop_videoHtml5","label":"ggOfx0BOCTo_background_desktop_videoHtml5","default":"https://media.w3.org/2010/05/sintel/trailer.mp4"},{"type":"html","id":"ggOfx0BOCTo_background_mobile_videoHtml5","label":"ggOfx0BOCTo_background_mobile_videoHtml5","default":"https://media.w3.org/2010/05/sintel/trailer.mp4"},{"type":"html","id":"ggHIYFkwWAg_text","label":"ggHIYFkwWAg_text","default":"<strong>Try Solydia For 30 Days. If Your Feet Still Hurt, You Pay Nothing.</strong>"},{"type":"html","id":"ggfNpjlhu9r_text","label":"ggfNpjlhu9r_text","default":"<p>Wear them on site every day for 30 days. If your feet still hurt, send them back and get every penny refunded. No small print. No returns process designed to make you give up.&nbsp;</p><p>&nbsp;</p><p>You've already spent money on boots that didn't deliver. This time the risk is ours.</p>"},{"type":"html","id":"ggaptQJNyJt_label","label":"ggaptQJNyJt_label","default":"<p><strong>Get 40% Off Today + 30 Day Guarantee</strong></p>"}],

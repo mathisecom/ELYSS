@@ -20,8 +20,7 @@
         "ggdiAk0eJc2_label": "<p>Try Solydia For 30 Days</p>",
         "ggmVoAEAWxY_text": "<p>Last Updated Mar 3.2025</p>",
         "ggvHlTg1lPb_text": "<p>By <strong>Jessica M.</strong></p>",
-        "ggyV04MX_qM_text": "<p>You finish a shift and your feet are done. Back's stiff. Knees ache. You've written it off as part of the job. Most workers do.&nbsp;</p><p>&nbsp;</p><p>They try a different brand, spend more money, get the same result, and eventually stop looking for an answer.&nbsp;</p><p>&nbsp;</p><p>But the answer isn't a better brand. It's understanding what's actually causing the damage. Here's what's going on</p>",
-        "section_preload": "true"
+        "ggyV04MX_qM_text": "<p>You finish a shift and your feet are done. Back's stiff. Knees ache. You've written it off as part of the job. Most workers do.&nbsp;</p><p>&nbsp;</p><p>They try a different brand, spend more money, get the same result, and eventually stop looking for an answer.&nbsp;</p><p>&nbsp;</p><p>But the answer isn't a better brand. It's understanding what's actually causing the damage. Here's what's going on</p>"
       },
       "type": "gp-section-612947718851002939"
     },
@@ -80,7 +79,7 @@
     },
     "gp_section_612951842959131195": {
       "settings": {
-        "checksum": "34a95b89e09004843843aa37a74520a9f2683a5e58c895d4c8fa29701c1f2832_1_1_1_0__1",
+        "checksum": "0dea38b1f3e1035479c686ec292e83f2934f3624057a35a3117e61e506f1a1e4_1_1_1_0__1",
         "ggHIYFkwWAg_text": "<strong>Try Solydia For 30 Days. If Your Feet Still Hurt, You Pay Nothing.</strong>",
         "ggOfx0BOCTo_background_desktop_videoHtml5": "https://media.w3.org/2010/05/sintel/trailer.mp4",
         "ggOfx0BOCTo_background_mobile_videoHtml5": "https://media.w3.org/2010/05/sintel/trailer.mp4",
@@ -123,9 +122,17 @@
         "ggyjoXTPzW1_label": "<p><strong>Get 40% Off Today + 30 Day Guarantee</strong></p>"
       },
       "type": "gp-section-612954762194715491"
+    },
+    "gp_section_612963738911244859": {
+      "settings": {
+        "checksum": "5364b3e1a1f04420af73ec9f8a6a4b234997ae83eb58f65cb895f6f35e1af0d7_1_1_1_0__1",
+        "section_preload": "true"
+      },
+      "type": "gp-section-612963738911244859"
     }
   },
   "order": [
+    "gp_section_612963738911244859",
     "gp_section_612947718851002939",
     "gp_section_612947719371096635",
     "gp_section_612947719287210555",
