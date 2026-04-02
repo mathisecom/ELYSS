@@ -133,7 +133,7 @@
     },
     "gp_section_613296160722911915": {
       "settings": {
-        "checksum": "e0785825d7eede0f941f14c5f202ac24ec43e4d238d6180379c18559f589cf12_1_1_1_0__1",
+        "checksum": "d3195ddd6531b258d72afad2f2acfb1a2585dcad9432b05e703f38619d54e30e_1_1_1_0__1",
         "gg3jo6JfgJA_text": "The problem isn't your feet. It's the engineering inside your boots.",
         "ggCisjhifSq_text": "<p>S3 certification requires specific performance standards — not a specific material. Solydia uses a Kevlar anti-puncture plate instead of steel.&nbsp;</p><p>&nbsp;</p><p>Lighter, and it allows your foot to flex naturally instead of being locked rigid.&nbsp;</p><p>&nbsp;</p><p>The result: 460 grams per shoe with deep heel cushioning and proper arch support built for 8+ hours on concrete.</p>",
         "ggClW72J-Oz_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
@@ -141,12 +141,16 @@
         "gggbg252sNe_text": "Kevlar replaces the steel sole plate. Same S3 rating. Half the weight.",
         "gggjr7H6U4L_text": "<p>SOLYDIA</p>",
         "ggnnZ1CMB0i_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
-        "ggtUgXdsRZ0_childItem_0": "Your custom text goes here",
-        "ggtUgXdsRZ0_childItem_1": "Your custom text goes here",
-        "ggtUgXdsRZ0_childItem_2": "Your custom text goes here",
-        "ggxU3inQ81g_childItem_0": "Your custom text goes here",
-        "ggxU3inQ81g_childItem_1": "Your custom text goes here",
-        "ggxU3inQ81g_childItem_2": "Your custom text goes here",
+        "ggtUgXdsRZ0_childItem_0": "<p>1kg+ per foot</p>",
+        "ggtUgXdsRZ0_childItem_1": "<p>Rigid steel sole plate</p>",
+        "ggtUgXdsRZ0_childItem_2": "<p>Leather degrades on concrete</p>",
+        "ggtUgXdsRZ0_childItem_3": "<p>Arch collapses under load</p>",
+        "ggtUgXdsRZ0_childItem_4": "Your custom text goes here ",
+        "ggxU3inQ81g_childItem_0": "<p>460g per shoe</p>",
+        "ggxU3inQ81g_childItem_1": "<p>Kevlar anti-puncture plate</p>",
+        "ggxU3inQ81g_childItem_2": "<p>Built for concrete</p>",
+        "ggxU3inQ81g_childItem_3": "<p>Structured arch support</p>",
+        "ggxU3inQ81g_childItem_4": "Your custom text goes here ",
         "ggxj7Te74jc_text": "<p>Full S3 protection — without the weight and rigidity that's destroying your fascia.</p>"
       },
       "type": "gp-section-613296160722911915"
