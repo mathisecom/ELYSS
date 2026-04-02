@@ -1000,6 +1000,7 @@
         "item_XFt6pF",
         "item_A9biVb"
       ],
+      "disabled": true,
       "name": "Text with icons",
       "settings": {
         "full_width": true,
@@ -1606,6 +1607,7 @@
         "item_UQdtCa",
         "item_yhT44x"
       ],
+      "disabled": true,
       "name": "FAQ",
       "settings": {
         "full_width": true,
