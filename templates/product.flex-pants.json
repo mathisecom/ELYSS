@@ -445,6 +445,7 @@
         },
         "collapsible_text_69mEDW": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "custom_icon": "shopify://shop_images/crop-svgrepo-com.svg",
@@ -456,6 +457,7 @@
         },
         "collapsible_text_6TeCJR": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "custom_icon": "shopify://shop_images/falling-svgrepo-com.svg",
@@ -478,6 +480,7 @@
         },
         "collapsible_text_pw7Eh8": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "custom_icon": "shopify://shop_images/leaf-svgrepo-com.svg",
@@ -489,6 +492,7 @@
         },
         "collapsible_text_Jy3R8y": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "custom_icon": "shopify://shop_images/shield-alt-1-svgrepo-com.svg",
