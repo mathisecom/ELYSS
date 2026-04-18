@@ -597,10 +597,9 @@
         },
         "item_qUkwx3": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "title": "Can I wear them all day without pain?",
-            "content": "<p>The <strong>high-density Memory Foam insole</strong> and <strong>lightweight construction</strong> are specially designed for long workdays.</p><p>Our sneakers have been tested during <strong>12-hour consecutive shifts</strong>. If you experience any discomfort, we offer a <strong>full 30-day money-back guarantee</strong>.</p>"
+            "content": "<p>The <strong>high-density Memory Foam insole</strong> and <strong>lightweight construction</strong> are specially designed for long workdays.</p>"
           }
         },
         "item_cYzQ4M": {
