@@ -519,6 +519,7 @@
         },
         "collapsible_text_KiY4TW": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "custom_icon": "shopify://shop_images/return-svgrepo-com.svg",
