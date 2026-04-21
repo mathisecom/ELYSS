@@ -264,6 +264,7 @@
       "block_order": [
         "image_VBC8kT"
       ],
+      "disabled": true,
       "name": "Slideshow",
       "settings": {
         "full_width": true,
@@ -296,6 +297,7 @@
       "block_order": [
         "button_Rqj4ag"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
