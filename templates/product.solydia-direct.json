@@ -1213,6 +1213,7 @@
       "block_order": [
         "image_wa6y66"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": true,
